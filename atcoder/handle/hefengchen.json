@@ -1,0 +1,474 @@
+{
+  "type": "atcoder/handle",
+  "handle": "hefengchen",
+  "submissions": [
+    {
+      "type": "atcoder",
+      "id": 26122712,
+      "creationTime": 1632657758,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26122712",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220A",
+        "name": "Find Multiple",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_a"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26129323,
+      "creationTime": 1632658080,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26129323",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220B",
+        "name": "Base K",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26133742,
+      "creationTime": 1632658337,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26133742",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220B",
+        "name": "Base K",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26135640,
+      "creationTime": 1632658461,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26135640",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220B",
+        "name": "Base K",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26143990,
+      "creationTime": 1632659183,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26143990",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220C",
+        "name": "Long Sequence",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26146310,
+      "creationTime": 1632659461,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26146310",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220C",
+        "name": "Long Sequence",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26148487,
+      "creationTime": 1632659749,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26148487",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220C",
+        "name": "Long Sequence",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26149294,
+      "creationTime": 1632659868,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26149294",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220C",
+        "name": "Long Sequence",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26161745,
+      "creationTime": 1632662322,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26161745",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220C",
+        "name": "Long Sequence",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26163345,
+      "creationTime": 1632662717,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26163345",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220C",
+        "name": "Long Sequence",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26166206,
+      "creationTime": 1632663422,
+      "language": "C++",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1632657600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26166206",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220D",
+        "name": "FG operation",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_d"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26174504,
+      "creationTime": 1632672650,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": 1632672650
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26174504",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220D",
+        "name": "FG operation",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_d"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26174560,
+      "creationTime": 1632672772,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": 1632672772
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26174560",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220D",
+        "name": "FG operation",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_d"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26174682,
+      "creationTime": 1632673070,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": 1632673070
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc220/submissions/26174682",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc220D",
+        "name": "FG operation",
+        "problemUrl": "https://atcoder.jp/contests/abc220/tasks/abc220_d"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26275518,
+      "creationTime": 1633176161,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633176000
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc221/submissions/26275518",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc221A",
+        "name": "Seismic magnitude scales",
+        "problemUrl": "https://atcoder.jp/contests/abc221/tasks/abc221_a"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26285809,
+      "creationTime": 1633176660,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633176000
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc221/submissions/26285809",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc221B",
+        "name": "typo",
+        "problemUrl": "https://atcoder.jp/contests/abc221/tasks/abc221_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26299310,
+      "creationTime": 1633178080,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633176000
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc221/submissions/26299310",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc221C",
+        "name": "Select Mul",
+        "problemUrl": "https://atcoder.jp/contests/abc221/tasks/abc221_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26301068,
+      "creationTime": 1633178370,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633176000
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc221/submissions/26301068",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc221C",
+        "name": "Select Mul",
+        "problemUrl": "https://atcoder.jp/contests/abc221/tasks/abc221_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26438500,
+      "creationTime": 1633780957,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633780800
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc222/submissions/26438500",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc222A",
+        "name": "Four Digits",
+        "problemUrl": "https://atcoder.jp/contests/abc222/tasks/abc222_a"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26442097,
+      "creationTime": 1633781079,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633780800
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc222/submissions/26442097",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc222B",
+        "name": "Failing Grade",
+        "problemUrl": "https://atcoder.jp/contests/abc222/tasks/abc222_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26454409,
+      "creationTime": 1633783361,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633780800
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc222/submissions/26454409",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc222C",
+        "name": "Swiss-System Tournament",
+        "problemUrl": "https://atcoder.jp/contests/abc222/tasks/abc222_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 26459765,
+      "creationTime": 1633784995,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1633780800
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc222/submissions/26459765",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc222C",
+        "name": "Swiss-System Tournament",
+        "problemUrl": "https://atcoder.jp/contests/abc222/tasks/abc222_c"
+      }
+    }
+  ],
+  "handleUrl": "https://atcoder.jp/users/hefengchen",
+  "atcoder": {
+    "rank": 46118,
+    "rating": 101,
+    "maxRating": 101
+  }
+}
