@@ -1,6 +1,9 @@
 users:
   何丰辰(921106840318):
     luogu/handle: '110125'
+    codeforces/handle: hefengchen
+    atcoder/handle: hefengchen
+    hdu/handle: hefengchen
   朱铭泽(9191160D0110):
     luogu/handle: '595439'
   陈文轩(921106840311):
@@ -49,6 +52,10 @@ users:
     luogu/handle: '585298'
   杨明鑫(921106840334):
     luogu/handle: '582615'
+  梁冲(921106840322):
+    luogu/handle: '577401'
+  刘喆(920113370114):
+    luogu/handle: '538776'
 
 handles:
   - codeforces/handle
