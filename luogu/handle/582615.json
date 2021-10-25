@@ -1,0 +1,674 @@
+{
+  "type": "luogu/handle",
+  "handle": "582615",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 60483235,
+      "creationTime": 1634789672,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634789672,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2019",
+        "name": "整型与布尔型的转换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2019"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60483235"
+    },
+    {
+      "type": "luogu",
+      "id": 60483126,
+      "creationTime": 1634789513,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634789513,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2018",
+        "name": "打印字符",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2018"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60483126"
+    },
+    {
+      "type": "luogu",
+      "id": 60483080,
+      "creationTime": 1634789440,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634789440,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2017",
+        "name": "打印 ASCII 码",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2017"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60483080"
+    },
+    {
+      "type": "luogu",
+      "id": 60462549,
+      "creationTime": 1634743748,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634743748,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2028",
+        "name": "反向输出一个三位数",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2028"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60462549"
+    },
+    {
+      "type": "luogu",
+      "id": 60461408,
+      "creationTime": 1634742729,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634742729,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2012",
+        "name": "甲流疫情死亡率",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2012"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60461408"
+    },
+    {
+      "type": "luogu",
+      "id": 60461297,
+      "creationTime": 1634742646,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634742646,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2012",
+        "name": "甲流疫情死亡率",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2012"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60461297"
+    },
+    {
+      "type": "luogu",
+      "id": 60461198,
+      "creationTime": 1634742563,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634742563,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2012",
+        "name": "甲流疫情死亡率",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2012"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60461198"
+    },
+    {
+      "type": "luogu",
+      "id": 60460913,
+      "creationTime": 1634742345,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634742345,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2012",
+        "name": "甲流疫情死亡率",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2012"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60460913"
+    },
+    {
+      "type": "luogu",
+      "id": 60460542,
+      "creationTime": 1634742060,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634742060,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2011",
+        "name": "计算分数的浮点数值",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2011"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60460542"
+    },
+    {
+      "type": "luogu",
+      "id": 60459969,
+      "creationTime": 1634741713,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634741713,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2010",
+        "name": "带余除法",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2010"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60459969"
+    },
+    {
+      "type": "luogu",
+      "id": 60459722,
+      "creationTime": 1634741578,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634741578,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2009",
+        "name": "计算 (a+b)/c 的值",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2009"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60459722"
+    },
+    {
+      "type": "luogu",
+      "id": 60459638,
+      "creationTime": 1634741533,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634741533,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2008",
+        "name": "计算 (a+b)×c 的值",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2008"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60459638"
+    },
+    {
+      "type": "luogu",
+      "id": 60459415,
+      "creationTime": 1634741399,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634741399,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2007",
+        "name": "A + B 问题",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2007"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60459415"
+    },
+    {
+      "type": "luogu",
+      "id": 60455651,
+      "creationTime": 1634739469,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634739469,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2005",
+        "name": "字符三角形",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2005"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60455651"
+    },
+    {
+      "type": "luogu",
+      "id": 60343526,
+      "creationTime": 1634649575,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634649575,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2004",
+        "name": "对齐输出",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2004"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60343526"
+    },
+    {
+      "type": "luogu",
+      "id": 60341776,
+      "creationTime": 1634649033,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634649033,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2003",
+        "name": "输出第二个整数",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2003"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60341776"
+    },
+    {
+      "type": "luogu",
+      "id": 60341463,
+      "creationTime": 1634648936,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634648936,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2002",
+        "name": "Hello,World!",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2002"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60341463"
+    },
+    {
+      "type": "luogu",
+      "id": 60341339,
+      "creationTime": 1634648887,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634648887,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2002",
+        "name": "Hello,World!",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2002"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60341339"
+    },
+    {
+      "type": "luogu",
+      "id": 60341160,
+      "creationTime": 1634648824,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634648824,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2002",
+        "name": "Hello,World!",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2002"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60341160"
+    },
+    {
+      "type": "luogu",
+      "id": 60341044,
+      "creationTime": 1634648770,
+      "language": "C++ 11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634648770,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2002",
+        "name": "Hello,World!",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2002"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60341044"
+    },
+    {
+      "type": "luogu",
+      "id": 60340488,
+      "creationTime": 1634648585,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634648585,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2001",
+        "name": "入门测试题目",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60340488"
+    },
+    {
+      "type": "luogu",
+      "id": 60336886,
+      "creationTime": 1634647517,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634647517,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2001",
+        "name": "入门测试题目",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60336886"
+    },
+    {
+      "type": "luogu",
+      "id": 60336631,
+      "creationTime": 1634647447,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634647447,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2001",
+        "name": "入门测试题目",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60336631"
+    },
+    {
+      "type": "luogu",
+      "id": 60330989,
+      "creationTime": 1634645983,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634645983,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60330989"
+    },
+    {
+      "type": "luogu",
+      "id": 60330677,
+      "creationTime": 1634645897,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634645897,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60330677"
+    },
+    {
+      "type": "luogu",
+      "id": 60330433,
+      "creationTime": 1634645830,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634645830,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60330433"
+    },
+    {
+      "type": "luogu",
+      "id": 60328362,
+      "creationTime": 1634645274,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634645274,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2054",
+        "name": "求平均年龄",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2054"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60328362"
+    },
+    {
+      "type": "luogu",
+      "id": 60326905,
+      "creationTime": 1634644865,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634644865,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60326905"
+    },
+    {
+      "type": "luogu",
+      "id": 60324917,
+      "creationTime": 1634644319,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634644319,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206139",
+        "name": "角谷猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206139"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60324917"
+    },
+    {
+      "type": "luogu",
+      "id": 60322908,
+      "creationTime": 1634643771,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1634643771,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60322908"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/582615.png",
+  "handleUrl": "https://www.luogu.com.cn/user/582615",
+  "luogu": {
+    "name": "yymmxx",
+    "color": "gray",
+    "ranking": 119696,
+    "slogan": null
+  }
+}
