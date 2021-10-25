@@ -1,21 +1,42 @@
 users:
-  tourist:
-    codeforces/handle: tourist
-    atcoder/handle: tourist
-  Petr:
-    codeforces/handle: Petr
-  Benq:
-    codeforces/handle: Benq
-  ksun48:
-    codeforces/handle: ksun48
-  jiangly:
-    codeforces/handle: jiangly
-    atcoder/handle: jiangly
-    luogu/handle: '149656'
-  何丰辰:
-    codeforces/handle: hefengchen
-    atcoder/handle: hefengchen
+  何丰辰(921106840318):
     luogu/handle: '110125'
+  朱铭泽(9191160D0110):
+    luogu/handle: '595439'
+  陈文轩(921106840311):
+    luogu/handle: '574902'
+  梁梓涛(919106840525):
+    luogu/handle: '595108'
+  况宇(919107820406):
+    luogu/handle: '423631'
+  陈凯荣(920101170117):
+    luogu/handle: '419573'
+  陈宇航(921106840312):
+    luogu/handle: '595130'
+  包振峰(921106840302):
+    luogu/handle: '582613'
+  梁学森(921106840323):
+    luogu/handle: '577410'
+  方识源(921106840314):
+    luogu/handle: '576189'
+  陈婷(921106840303):
+    luogu/handle: '582626'
+  巴合杰力德孜·沙牙哈提(921106840301):
+    luogu/handle: '583852'
+  刘子豪(920113370210):
+    luogu/handle: '543042'
+  付凯(921106840315):
+    luogu/handle: '595643'
+  李旖璇(921106840305):
+    luogu/handle: '97669'
+  王淼宇(921106840331):
+    luogu/handle: '581377'
+  徐卫林(921106840333):
+    luogu/handle: '582653'
+  孟薪茹(921106840307):
+    luogu/handle: '579450'
+  程子航(921106840313):
+    luogu/handle: '582659'
 
 handles:
   - codeforces/handle
@@ -42,4 +63,4 @@ app:
   recentTime: 2592000 # 1 month
   recentContestsCount: 15
   recentUserCount: 5
-  title: NJUST PD GROUP
+  title: 2021程序设计基础I
