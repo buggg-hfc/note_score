@@ -12,6 +12,10 @@ users:
     codeforces/handle: jiangly
     atcoder/handle: jiangly
     luogu/handle: '149656'
+  何丰辰:
+    codeforces/handle: hefengchen
+    atcoder/handle: hefengchen
+    luogu/handle: '110125'
 
 handles:
   - codeforces/handle
