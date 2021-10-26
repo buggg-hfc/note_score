@@ -13108,5 +13108,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103366",
     "standingsUrl": "https://codeforces.com/gym/103366/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2021-2022, Первая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103367,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103367",
+    "standingsUrl": "https://codeforces.com/gym/103367/standings"
   }
 ]
