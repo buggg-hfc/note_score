@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 61034173,
+      "creationTime": 1635261832,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "419573"
+        ],
+        "participantTime": 1635261832,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1007",
+        "name": "独木桥",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1007"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/61034173"
+    },
+    {
+      "type": "luogu",
       "id": 57163501,
       "creationTime": 1630162468,
       "language": "C++ 98",
@@ -272,7 +294,7 @@
   "luogu": {
     "name": "C920101170117",
     "color": "blue",
-    "ranking": 48172,
+    "ranking": 48171,
     "slogan": ""
   }
 }
