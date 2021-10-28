@@ -13118,5 +13118,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103367",
     "standingsUrl": "https://codeforces.com/gym/103367/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Moscow team olympiad 2021",
+    "startTime": 1635249600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103369,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103369",
+    "standingsUrl": "https://codeforces.com/gym/103369/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXII Open Cup. Grand Prix of Korea",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103371,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103371",
+    "standingsUrl": "https://codeforces.com/gym/103371/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXII Open Cup. Grand Prix of Korea (Division 2)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103372,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103372",
+    "standingsUrl": "https://codeforces.com/gym/103372/standings"
   }
 ]
