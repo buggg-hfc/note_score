@@ -13100,6 +13100,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Открытая Командная Олимпиада ЮМШ по программированию",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103361,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103361",
+    "standingsUrl": "https://codeforces.com/gym/103361/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2021 Jiangxi Provincial Collegiate Programming Contest",
     "startTime": 1634954400,
     "duration": 18000,
@@ -13149,5 +13159,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103372",
     "standingsUrl": "https://codeforces.com/gym/103372/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 ICPC Asia Taiwan Online Programming Contest",
+    "startTime": 1634950800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103373,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103373",
+    "standingsUrl": "https://codeforces.com/gym/103373/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-29-21 Div. 1 (Advanced)",
+    "startTime": 1635548700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103379,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103379",
+    "standingsUrl": "https://codeforces.com/gym/103379/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-29-21 Div. 2 (Beginner)",
+    "startTime": 1635548700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103380,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103380",
+    "standingsUrl": "https://codeforces.com/gym/103380/standings"
   }
 ]

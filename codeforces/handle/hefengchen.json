@@ -5,11 +5,279 @@
   "avatar": "https://userpic.codeforces.org/no-title.jpg",
   "codeforces": {
     "rank": "newbie",
-    "rating": 1009,
+    "rating": 1068,
     "maxRank": "newbie",
     "maxRating": 1073
   },
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 133603908,
+      "creationTime": 1635595944,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511887703
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133603908"
+    },
+    {
+      "type": "codeforces",
+      "id": 133526647,
+      "creationTime": 1635527785,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511955862
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133526647"
+    },
+    {
+      "type": "codeforces",
+      "id": 133525825,
+      "creationTime": 1635527344,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511956303
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133525825"
+    },
+    {
+      "type": "codeforces",
+      "id": 133523129,
+      "creationTime": 1635526129,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511957518
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133523129"
+    },
+    {
+      "type": "codeforces",
+      "id": 133498093,
+      "creationTime": 1635522042,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133498093"
+    },
+    {
+      "type": "codeforces",
+      "id": 133492187,
+      "creationTime": 1635521357,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133492187"
+    },
+    {
+      "type": "codeforces",
+      "id": 133491906,
+      "creationTime": 1635521326,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133491906"
+    },
+    {
+      "type": "codeforces",
+      "id": 133490956,
+      "creationTime": 1635521227,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133490956"
+    },
+    {
+      "type": "codeforces",
+      "id": 133483179,
+      "creationTime": 1635520473,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606A",
+        "name": "AB Balance",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133483179"
+    },
+    {
+      "type": "codeforces",
+      "id": 133466121,
+      "creationTime": 1635519048,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606A",
+        "name": "AB Balance",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133466121"
+    },
+    {
+      "type": "codeforces",
+      "id": 133462975,
+      "creationTime": 1635518805,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606A",
+        "name": "AB Balance",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133462975"
+    },
     {
       "type": "codeforces",
       "id": 133345761,
