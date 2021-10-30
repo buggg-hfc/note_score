@@ -3,12 +3,6 @@
   "handle": "hefengchen",
   "handleUrl": "https://codeforces.com/profile/hefengchen",
   "avatar": "https://userpic.codeforces.org/no-title.jpg",
-  "codeforces": {
-    "rank": "newbie",
-    "rating": 1068,
-    "maxRank": "newbie",
-    "maxRating": 1073
-  },
   "submissions": [
     {
       "type": "codeforces",
@@ -2562,5 +2556,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/1556/submission/127347274"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "newbie",
+    "rating": 1068,
+    "maxRank": "newbie",
+    "maxRating": 1073
+  }
 }
