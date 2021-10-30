@@ -4,5 +4,122 @@
   "handleUrl": "https://codeforces.com/profile/Charmz",
   "avatar": "https://userpic.codeforces.org/no-title.jpg",
   "codeforces": {},
-  "submissions": []
+  "submissions": [
+    {
+      "type": "codeforces",
+      "id": 133660337,
+      "creationTime": 1635608415,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635604500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604A",
+        "name": "Era",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/133660337"
+    },
+    {
+      "type": "codeforces",
+      "id": 133660174,
+      "creationTime": 1635608394,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635604500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604C",
+        "name": "Di-visible Confusion",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/133660174"
+    },
+    {
+      "type": "codeforces",
+      "id": 133659191,
+      "creationTime": 1635608274,
+      "language": "GNU C11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635604500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604C",
+        "name": "Di-visible Confusion",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/133659191"
+    },
+    {
+      "type": "codeforces",
+      "id": 133654650,
+      "creationTime": 1635607712,
+      "language": "GNU C11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635604500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604A",
+        "name": "Era",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/133654650"
+    },
+    {
+      "type": "codeforces",
+      "id": 133653780,
+      "creationTime": 1635607608,
+      "language": "GNU C11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635604500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604A",
+        "name": "Era",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/133653780"
+    }
+  ]
 }
