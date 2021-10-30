@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 61180873,
+      "creationTime": 1635437186,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1635437186,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2044",
+        "name": "有一门课不及格的学生",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2044"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/61180873"
+    },
+    {
+      "type": "luogu",
+      "id": 61179918,
+      "creationTime": 1635435559,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582615"
+        ],
+        "participantTime": 1635435559,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/B",
+        "id": "B2038",
+        "name": "奇偶 ASCII 值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/B2038"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/61179918"
+    },
+    {
+      "type": "luogu",
       "id": 61111455,
       "creationTime": 1635350715,
       "language": "C++ 11",

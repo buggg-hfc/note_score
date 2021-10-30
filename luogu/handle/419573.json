@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 61274350,
+      "creationTime": 1635561444,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "419573"
+        ],
+        "participantTime": 1635561444,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1010",
+        "name": "[NOIP1998 普及组] 幂次方",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1010"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/61274350"
+    },
+    {
+      "type": "luogu",
       "id": 61034173,
       "creationTime": 1635261832,
       "language": "C++ 14",
