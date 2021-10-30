@@ -13192,5 +13192,45 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103380",
     "standingsUrl": "https://codeforces.com/gym/103380/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике для 9 - 11 классов (3 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103382,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103382",
+    "standingsUrl": "https://codeforces.com/gym/103382/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс  2021 (4 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103383,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103383",
+    "standingsUrl": "https://codeforces.com/gym/103383/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс 2021 (2 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103384,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103384",
+    "standingsUrl": "https://codeforces.com/gym/103384/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс 2021 (1 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103385,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103385",
+    "standingsUrl": "https://codeforces.com/gym/103385/standings"
   }
 ]
