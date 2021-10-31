@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
+        "rating": 1100,
         "tags": [
           "constructive algorithms"
         ],
@@ -45,6 +46,7 @@
         "type": "codeforces",
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
+        "rating": 1100,
         "tags": [
           "constructive algorithms"
         ],
@@ -69,6 +71,7 @@
         "type": "codeforces",
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
+        "rating": 1100,
         "tags": [
           "constructive algorithms"
         ],
@@ -93,6 +96,7 @@
         "type": "codeforces",
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
+        "rating": 1100,
         "tags": [
           "constructive algorithms"
         ],
@@ -117,6 +121,7 @@
         "type": "codeforces",
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
+        "rating": 1100,
         "tags": [
           "constructive algorithms"
         ],
@@ -141,8 +146,10 @@
         "type": "codeforces",
         "id": "1604D",
         "name": "Moderate Modular Mode",
+        "rating": 1600,
         "tags": [
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1604/problem/D"
       },
@@ -165,8 +172,10 @@
         "type": "codeforces",
         "id": "1604D",
         "name": "Moderate Modular Mode",
+        "rating": 1600,
         "tags": [
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1604/problem/D"
       },
@@ -189,7 +198,14 @@
         "type": "codeforces",
         "id": "1604C",
         "name": "Di-visible Confusion",
-        "tags": [],
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1604/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133669013"
@@ -211,6 +227,7 @@
         "type": "codeforces",
         "id": "1604A",
         "name": "Era",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
@@ -235,6 +252,7 @@
         "type": "codeforces",
         "id": "1606C",
         "name": "Banknotes",
+        "rating": 1400,
         "tags": [
           "greedy"
         ],
@@ -259,6 +277,7 @@
         "type": "codeforces",
         "id": "1606C",
         "name": "Banknotes",
+        "rating": 1400,
         "tags": [
           "greedy"
         ],
@@ -283,6 +302,7 @@
         "type": "codeforces",
         "id": "1606C",
         "name": "Banknotes",
+        "rating": 1400,
         "tags": [
           "greedy"
         ],
@@ -307,6 +327,7 @@
         "type": "codeforces",
         "id": "1606C",
         "name": "Banknotes",
+        "rating": 1400,
         "tags": [
           "greedy"
         ],
@@ -331,6 +352,7 @@
         "type": "codeforces",
         "id": "1606B",
         "name": "Update Files",
+        "rating": 1100,
         "tags": [
           "implementation",
           "math"
@@ -356,6 +378,7 @@
         "type": "codeforces",
         "id": "1606B",
         "name": "Update Files",
+        "rating": 1100,
         "tags": [
           "implementation",
           "math"
@@ -381,6 +404,7 @@
         "type": "codeforces",
         "id": "1606B",
         "name": "Update Files",
+        "rating": 1100,
         "tags": [
           "implementation",
           "math"
@@ -406,6 +430,7 @@
         "type": "codeforces",
         "id": "1606B",
         "name": "Update Files",
+        "rating": 1100,
         "tags": [
           "implementation",
           "math"
@@ -431,6 +456,7 @@
         "type": "codeforces",
         "id": "1606A",
         "name": "AB Balance",
+        "rating": 900,
         "tags": [
           "strings"
         ],
@@ -455,6 +481,7 @@
         "type": "codeforces",
         "id": "1606A",
         "name": "AB Balance",
+        "rating": 900,
         "tags": [
           "strings"
         ],
@@ -479,6 +506,7 @@
         "type": "codeforces",
         "id": "1606A",
         "name": "AB Balance",
+        "rating": 900,
         "tags": [
           "strings"
         ],
@@ -2559,8 +2587,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 1068,
+    "rating": 1126,
     "maxRank": "newbie",
-    "maxRating": 1073
+    "maxRating": 1126
   }
 }

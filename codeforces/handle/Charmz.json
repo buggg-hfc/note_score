@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1604A",
         "name": "Era",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
@@ -45,7 +46,14 @@
         "type": "codeforces",
         "id": "1604C",
         "name": "Di-visible Confusion",
-        "tags": [],
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1604/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133660174"
@@ -67,7 +75,14 @@
         "type": "codeforces",
         "id": "1604C",
         "name": "Di-visible Confusion",
-        "tags": [],
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1604/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133659191"
@@ -89,6 +104,7 @@
         "type": "codeforces",
         "id": "1604A",
         "name": "Era",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
@@ -113,6 +129,7 @@
         "type": "codeforces",
         "id": "1604A",
         "name": "Era",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
@@ -120,5 +137,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133653780"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "newbie",
+    "rating": 383,
+    "maxRank": "newbie",
+    "maxRating": 383
+  }
 }
