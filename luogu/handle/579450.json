@@ -1,7 +1,52 @@
 {
   "type": "luogu/handle",
   "handle": "579450",
-  "submissions": [],
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 60329923,
+      "creationTime": 1634645696,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1634645696,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206137",
+        "name": "求平均年龄",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206137"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60329923"
+    },
+    {
+      "type": "luogu",
+      "id": 60318903,
+      "creationTime": 1634642603,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1634642603,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60318903"
+    }
+  ],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/579450.png",
   "handleUrl": "https://www.luogu.com.cn/user/579450",
   "luogu": {

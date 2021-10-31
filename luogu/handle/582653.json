@@ -1,7 +1,74 @@
 {
   "type": "luogu/handle",
   "handle": "582653",
-  "submissions": [],
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 60331908,
+      "creationTime": 1634646222,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582653"
+        ],
+        "participantTime": 1634646222,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60331908"
+    },
+    {
+      "type": "luogu",
+      "id": 60323500,
+      "creationTime": 1634643942,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582653"
+        ],
+        "participantTime": 1634643942,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206137",
+        "name": "求平均年龄",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206137"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60323500"
+    },
+    {
+      "type": "luogu",
+      "id": 60319756,
+      "creationTime": 1634642864,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582653"
+        ],
+        "participantTime": 1634642864,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60319756"
+    }
+  ],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/582653.png",
   "handleUrl": "https://www.luogu.com.cn/user/582653",
   "luogu": {

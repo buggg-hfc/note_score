@@ -1,7 +1,250 @@
 {
   "type": "luogu/handle",
   "handle": "576359",
-  "submissions": [],
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 60868242,
+      "creationTime": 1635079240,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1635079240,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204991",
+        "name": "健美操课上的丰丰",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204991"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60868242"
+    },
+    {
+      "type": "luogu",
+      "id": 60865124,
+      "creationTime": 1635078145,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1635078145,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204703",
+        "name": "Failing Grade",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204703"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60865124"
+    },
+    {
+      "type": "luogu",
+      "id": 60864281,
+      "creationTime": 1635077823,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1635077823,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5708",
+        "name": "【深基2.习2】三角形面积",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5708"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60864281"
+    },
+    {
+      "type": "luogu",
+      "id": 60329232,
+      "creationTime": 1634645517,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634645517,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1179",
+        "name": "[NOIP2010 普及组] 数字统计",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1179"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60329232"
+    },
+    {
+      "type": "luogu",
+      "id": 60325106,
+      "creationTime": 1634644379,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634644379,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206129",
+        "name": "数字反转",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206129"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60325106"
+    },
+    {
+      "type": "luogu",
+      "id": 60317668,
+      "creationTime": 1634642217,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634642217,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60317668"
+    },
+    {
+      "type": "luogu",
+      "id": 60155784,
+      "creationTime": 1634472064,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634472064,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204543",
+        "name": "Four Digits",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204543"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60155784"
+    },
+    {
+      "type": "luogu",
+      "id": 60155562,
+      "creationTime": 1634471952,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634471952,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60155562"
+    },
+    {
+      "type": "luogu",
+      "id": 60155470,
+      "creationTime": 1634471911,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634471911,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60155470"
+    },
+    {
+      "type": "luogu",
+      "id": 60155364,
+      "creationTime": 1634471863,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634471863,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1046",
+        "name": "[NOIP2005 普及组] 陶陶摘苹果",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1046"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60155364"
+    },
+    {
+      "type": "luogu",
+      "id": 60154622,
+      "creationTime": 1634471525,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576359"
+        ],
+        "participantTime": 1634471525,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204361",
+        "name": "Seismic magnitude scales",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204361"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60154622"
+    }
+  ],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/576359.png",
   "handleUrl": "https://www.luogu.com.cn/user/576359",
   "luogu": {
