@@ -1,102 +1,13 @@
 {
   "type": "luogu/handle",
   "handle": "577410",
-  "submissions": [
-    {
-      "type": "luogu",
-      "id": 60329560,
-      "creationTime": 1634645606,
-      "language": "C++ 14",
-      "verdict": "WRONG_ANSWER",
-      "author": {
-        "members": [
-          "577410"
-        ],
-        "participantTime": 1634645606,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206129",
-        "name": "数字反转",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206129"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60329560"
-    },
-    {
-      "type": "luogu",
-      "id": 60325405,
-      "creationTime": 1634644458,
-      "language": "C++ 14",
-      "verdict": "OK",
-      "author": {
-        "members": [
-          "577410"
-        ],
-        "participantTime": 1634644458,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206137",
-        "name": "求平均年龄",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206137"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60325405"
-    },
-    {
-      "type": "luogu",
-      "id": 60320690,
-      "creationTime": 1634643110,
-      "language": "C++ 14",
-      "verdict": "WRONG_ANSWER",
-      "author": {
-        "members": [
-          "577410"
-        ],
-        "participantTime": 1634643110,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206137",
-        "name": "求平均年龄",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206137"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60320690"
-    },
-    {
-      "type": "luogu",
-      "id": 60318474,
-      "creationTime": 1634642472,
-      "language": "C++ 14",
-      "verdict": "OK",
-      "author": {
-        "members": [
-          "577410"
-        ],
-        "participantTime": 1634642472,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206134",
-        "name": "奇偶ASCII值判断",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60318474"
-    }
-  ],
+  "submissions": [],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/577410.png",
   "handleUrl": "https://www.luogu.com.cn/user/577410",
   "luogu": {
     "name": "20020912lxs",
     "color": "blue",
-    "ranking": 66339,
+    "ranking": 68008,
     "slogan": ""
   }
 }

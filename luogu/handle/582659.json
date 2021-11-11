@@ -1,102 +1,13 @@
 {
   "type": "luogu/handle",
   "handle": "582659",
-  "submissions": [
-    {
-      "type": "luogu",
-      "id": 60333329,
-      "creationTime": 1634646582,
-      "language": "C++ 14",
-      "verdict": "WRONG_ANSWER",
-      "author": {
-        "members": [
-          "582659"
-        ],
-        "participantTime": 1634646582,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206139",
-        "name": "角谷猜想",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206139"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60333329"
-    },
-    {
-      "type": "luogu",
-      "id": 60330071,
-      "creationTime": 1634645734,
-      "language": "C++ 14",
-      "verdict": "WRONG_ANSWER",
-      "author": {
-        "members": [
-          "582659"
-        ],
-        "participantTime": 1634645734,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206129",
-        "name": "数字反转",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206129"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60330071"
-    },
-    {
-      "type": "luogu",
-      "id": 60322198,
-      "creationTime": 1634643563,
-      "language": "C++ 14",
-      "verdict": "OK",
-      "author": {
-        "members": [
-          "582659"
-        ],
-        "participantTime": 1634643563,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206134",
-        "name": "奇偶ASCII值判断",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60322198"
-    },
-    {
-      "type": "luogu",
-      "id": 60320270,
-      "creationTime": 1634642996,
-      "language": "C++ 14",
-      "verdict": "OK",
-      "author": {
-        "members": [
-          "582659"
-        ],
-        "participantTime": 1634642996,
-        "participantType": "PRACTICE"
-      },
-      "problem": {
-        "type": "luogu/T",
-        "id": "T206325",
-        "name": "画矩形",
-        "rating": 1,
-        "problemUrl": "https://www.luogu.com.cn/problem/T206325"
-      },
-      "submissionUrl": "https://www.luogu.com.cn/record/60320270"
-    }
-  ],
+  "submissions": [],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/582659.png",
   "handleUrl": "https://www.luogu.com.cn/user/582659",
   "luogu": {
     "name": "17stary",
     "color": "blue",
-    "ranking": 66339,
+    "ranking": 68008,
     "slogan": ""
   }
 }
