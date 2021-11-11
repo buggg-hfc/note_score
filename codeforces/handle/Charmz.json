@@ -6,6 +6,57 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 134119713,
+      "creationTime": 1635869512,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607A",
+        "name": "Linear Keyboard",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134119713"
+    },
+    {
+      "type": "codeforces",
+      "id": 134116260,
+      "creationTime": 1635869080,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607B",
+        "name": "Odd Grasshopper",
+        "rating": 900,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134116260"
+    },
+    {
+      "type": "codeforces",
       "id": 133660337,
       "creationTime": 1635608415,
       "language": "GNU C++14",
@@ -49,7 +100,6 @@
         "rating": 1300,
         "tags": [
           "brute force",
-          "constructive algorithms",
           "greedy",
           "math",
           "number theory"
@@ -78,7 +128,6 @@
         "rating": 1300,
         "tags": [
           "brute force",
-          "constructive algorithms",
           "greedy",
           "math",
           "number theory"
@@ -140,8 +189,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 383,
+    "rating": 640,
     "maxRank": "newbie",
-    "maxRating": 383
+    "maxRating": 640
   }
 }

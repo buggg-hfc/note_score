@@ -6,6 +6,241 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 134480512,
+      "creationTime": 1636193573,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1636192800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1562A",
+        "name": "The Miracle and the Sleeper",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1562/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1562/submission/134480512"
+    },
+    {
+      "type": "codeforces",
+      "id": 134480468,
+      "creationTime": 1636193534,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1636192800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1562A",
+        "name": "The Miracle and the Sleeper",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1562/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1562/submission/134480468"
+    },
+    {
+      "type": "codeforces",
+      "id": 134168181,
+      "creationTime": 1635911549,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511572098
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607E",
+        "name": "Robot on the Board 1",
+        "rating": 1600,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134168181"
+    },
+    {
+      "type": "codeforces",
+      "id": 134166653,
+      "creationTime": 1635909442,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511574205
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134166653"
+    },
+    {
+      "type": "codeforces",
+      "id": 134138893,
+      "creationTime": 1635874225,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511609422
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134138893"
+    },
+    {
+      "type": "codeforces",
+      "id": 134138454,
+      "creationTime": 1635873942,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511609705
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134138454"
+    },
+    {
+      "type": "codeforces",
+      "id": 134108161,
+      "creationTime": 1635868104,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607C",
+        "name": "Minimum Extraction",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134108161"
+    },
+    {
+      "type": "codeforces",
+      "id": 134090347,
+      "creationTime": 1635866200,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607B",
+        "name": "Odd Grasshopper",
+        "rating": 900,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134090347"
+    },
+    {
+      "type": "codeforces",
+      "id": 134070497,
+      "creationTime": 1635864199,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607A",
+        "name": "Linear Keyboard",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134070497"
+    },
+    {
+      "type": "codeforces",
       "id": 133688770,
       "creationTime": 1635615291,
       "language": "GNU C++14",
@@ -22,9 +257,7 @@
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
         "rating": 1100,
-        "tags": [
-          "constructive algorithms"
-        ],
+        "tags": [],
         "problemUrl": "https://codeforces.com/contest/1604/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133688770"
@@ -47,9 +280,7 @@
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
         "rating": 1100,
-        "tags": [
-          "constructive algorithms"
-        ],
+        "tags": [],
         "problemUrl": "https://codeforces.com/contest/1604/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133688509"
@@ -72,9 +303,7 @@
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
         "rating": 1100,
-        "tags": [
-          "constructive algorithms"
-        ],
+        "tags": [],
         "problemUrl": "https://codeforces.com/contest/1604/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133688188"
@@ -97,9 +326,7 @@
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
         "rating": 1100,
-        "tags": [
-          "constructive algorithms"
-        ],
+        "tags": [],
         "problemUrl": "https://codeforces.com/contest/1604/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133687970"
@@ -122,9 +349,7 @@
         "id": "1604B",
         "name": "XOR Specia-LIS-t",
         "rating": 1100,
-        "tags": [
-          "constructive algorithms"
-        ],
+        "tags": [],
         "problemUrl": "https://codeforces.com/contest/1604/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1604/submission/133687734"
@@ -201,7 +426,6 @@
         "rating": 1300,
         "tags": [
           "brute force",
-          "constructive algorithms",
           "greedy",
           "math",
           "number theory"
@@ -254,7 +478,8 @@
         "name": "Banknotes",
         "rating": 1400,
         "tags": [
-          "greedy"
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1606/problem/C"
       },
@@ -279,7 +504,8 @@
         "name": "Banknotes",
         "rating": 1400,
         "tags": [
-          "greedy"
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1606/problem/C"
       },
@@ -304,7 +530,8 @@
         "name": "Banknotes",
         "rating": 1400,
         "tags": [
-          "greedy"
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1606/problem/C"
       },
@@ -329,7 +556,8 @@
         "name": "Banknotes",
         "rating": 1400,
         "tags": [
-          "greedy"
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1606/problem/C"
       },
@@ -354,6 +582,7 @@
         "name": "Update Files",
         "rating": 1100,
         "tags": [
+          "greedy",
           "implementation",
           "math"
         ],
@@ -380,6 +609,7 @@
         "name": "Update Files",
         "rating": 1100,
         "tags": [
+          "greedy",
           "implementation",
           "math"
         ],
@@ -406,6 +636,7 @@
         "name": "Update Files",
         "rating": 1100,
         "tags": [
+          "greedy",
           "implementation",
           "math"
         ],
@@ -432,6 +663,7 @@
         "name": "Update Files",
         "rating": 1100,
         "tags": [
+          "greedy",
           "implementation",
           "math"
         ],
@@ -2587,8 +2819,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 1126,
+    "rating": 1145,
     "maxRank": "newbie",
-    "maxRating": 1126
+    "maxRating": 1145
   }
 }
