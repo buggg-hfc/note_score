@@ -6,6 +6,294 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 135492440,
+      "creationTime": 1636903554,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510580093
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409B",
+        "name": "A Plus B Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135492440"
+    },
+    {
+      "type": "codeforces",
+      "id": 135492355,
+      "creationTime": 1636903508,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510580139
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409D",
+        "name": "Assumption is All You Need",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135492355"
+    },
+    {
+      "type": "codeforces",
+      "id": 135492298,
+      "creationTime": 1636903484,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510580163
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409E",
+        "name": "Buy and Delete",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135492298"
+    },
+    {
+      "type": "codeforces",
+      "id": 135492250,
+      "creationTime": 1636903450,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510580197
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409G",
+        "name": "Occupy the Cities",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135492250"
+    },
+    {
+      "type": "codeforces",
+      "id": 135492098,
+      "creationTime": 1636903356,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510580291
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409I",
+        "name": "PTSD",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135492098"
+    },
+    {
+      "type": "codeforces",
+      "id": 135489682,
+      "creationTime": 1636901894,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510581753
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409I",
+        "name": "PTSD",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135489682"
+    },
+    {
+      "type": "codeforces",
+      "id": 135482917,
+      "creationTime": 1636901303,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510582344
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103409A",
+        "name": "A Hero Named Magnus",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103409/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103409/submission/135482917"
+    },
+    {
+      "type": "codeforces",
+      "id": 135173873,
+      "creationTime": 1636736708,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510746939
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1605C",
+        "name": "Dominant Character",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1605/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1605/submission/135173873"
+    },
+    {
+      "type": "codeforces",
+      "id": 135156484,
+      "creationTime": 1636732976,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1636727700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1605C",
+        "name": "Dominant Character",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1605/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1605/submission/135156484"
+    },
+    {
+      "type": "codeforces",
+      "id": 135131624,
+      "creationTime": 1636730172,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1636727700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1605B",
+        "name": "Reverse Sort",
+        "rating": 1000,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1605/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1605/submission/135131624"
+    },
+    {
+      "type": "codeforces",
+      "id": 135112097,
+      "creationTime": 1636728490,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1636727700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1605A",
+        "name": "A.M. Deviation",
+        "rating": 800,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1605/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1605/submission/135112097"
+    },
+    {
+      "type": "codeforces",
+      "id": 135106200,
+      "creationTime": 1636728096,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1636727700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1605A",
+        "name": "A.M. Deviation",
+        "rating": 800,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1605/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1605/submission/135106200"
+    },
+    {
+      "type": "codeforces",
       "id": 134480512,
       "creationTime": 1636193573,
       "language": "GNU C++14",
@@ -2819,8 +3107,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 1145,
+    "rating": 1173,
     "maxRank": "newbie",
-    "maxRating": 1145
+    "maxRating": 1173
   }
 }
