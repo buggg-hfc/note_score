@@ -6,6 +6,105 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 136470572,
+      "creationTime": 1637580802,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612C",
+        "name": "Chat Ban",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136470572"
+    },
+    {
+      "type": "codeforces",
+      "id": 136464433,
+      "creationTime": 1637579884,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612C",
+        "name": "Chat Ban",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136464433"
+    },
+    {
+      "type": "codeforces",
+      "id": 136460407,
+      "creationTime": 1637579192,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612A",
+        "name": "Distance",
+        "tags": [
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136460407"
+    },
+    {
+      "type": "codeforces",
+      "id": 136456038,
+      "creationTime": 1637578402,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612B",
+        "name": "Special Permutation",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136456038"
+    },
+    {
+      "type": "codeforces",
       "id": 135555510,
       "creationTime": 1636947672,
       "language": "GNU C++14",
@@ -211,8 +310,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 640,
+    "rating": 828,
     "maxRank": "newbie",
-    "maxRating": 640
+    "maxRating": 828
   }
 }

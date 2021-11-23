@@ -6,6 +6,130 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 136466189,
+      "creationTime": 1637580165,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612D",
+        "name": "X-Magic Pair",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136466189"
+    },
+    {
+      "type": "codeforces",
+      "id": 136460099,
+      "creationTime": 1637579144,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612D",
+        "name": "X-Magic Pair",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136460099"
+    },
+    {
+      "type": "codeforces",
+      "id": 136449540,
+      "creationTime": 1637577251,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612C",
+        "name": "Chat Ban",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136449540"
+    },
+    {
+      "type": "codeforces",
+      "id": 136438932,
+      "creationTime": 1637575619,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612B",
+        "name": "Special Permutation",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136438932"
+    },
+    {
+      "type": "codeforces",
+      "id": 136428492,
+      "creationTime": 1637574356,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637573700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1612A",
+        "name": "Distance",
+        "tags": [
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1612/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1612/submission/136428492"
+    },
+    {
+      "type": "codeforces",
       "id": 135492440,
       "creationTime": 1636903554,
       "language": "GNU C++14",
@@ -3106,9 +3230,9 @@
     }
   ],
   "codeforces": {
-    "rank": "newbie",
-    "rating": 1173,
-    "maxRank": "newbie",
-    "maxRating": 1173
+    "rank": "pupil",
+    "rating": 1306,
+    "maxRank": "pupil",
+    "maxRating": 1306
   }
 }
