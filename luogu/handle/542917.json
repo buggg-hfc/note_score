@@ -1,13 +1,36 @@
 {
   "type": "luogu/handle",
   "handle": "542917",
-  "submissions": [],
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 56958400,
+      "creationTime": 1629905815,
+      "language": "C++ 98",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "542917"
+        ],
+        "participantTime": 1629905815,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1738",
+        "name": "洛谷的文件夹",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1738"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/56958400"
+    }
+  ],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/542917.png",
   "handleUrl": "https://www.luogu.com.cn/user/542917",
   "luogu": {
     "name": "xinghanwen",
     "color": "blue",
-    "ranking": 49691,
+    "ranking": 51489,
     "slogan": ""
   }
 }
