@@ -736,12 +736,243 @@
         "name": "Counting Arrays",
         "problemUrl": "https://atcoder.jp/contests/abc226/tasks/abc226_b"
       }
+    },
+    {
+      "type": "atcoder",
+      "id": 27356066,
+      "creationTime": 1637409984,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27356066",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228A",
+        "name": "On and Off",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_a"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27361008,
+      "creationTime": 1637410318,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27361008",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228B",
+        "name": "Takahashi's Secret",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27367245,
+      "creationTime": 1637410884,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27367245",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228C",
+        "name": "Final Day",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27383023,
+      "creationTime": 1637412966,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27383023",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27386076,
+      "creationTime": 1637413461,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27386076",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27388878,
+      "creationTime": 1637413945,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27388878",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27390252,
+      "creationTime": 1637414183,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27390252",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27391376,
+      "creationTime": 1637414381,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27391376",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27393936,
+      "creationTime": 1637414827,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27393936",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27395553,
+      "creationTime": 1637415084,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27395553",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 27399005,
+      "creationTime": 1637415552,
+      "language": "C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1637409600
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc228/submissions/27399005",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc228E",
+        "name": "Integer Sequence Fair",
+        "problemUrl": "https://atcoder.jp/contests/abc228/tasks/abc228_e"
+      }
     }
   ],
   "handleUrl": "https://atcoder.jp/users/hefengchen",
   "atcoder": {
-    "rank": 44617,
-    "rating": 114,
-    "maxRating": 114
+    "rank": 35237,
+    "rating": 225,
+    "maxRating": 225
   }
 }
