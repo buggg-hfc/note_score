@@ -1,88 +1,88 @@
 users:
   何丰辰(921106840318):
-    luogu/handle: '110125'
-    codeforces/handle: hefengchen
-    atcoder/handle: hefengchen
-    hdu/handle: hefengchen
+    handle/luogu: '110125'
+    handle/codeforces: hefengchen
+    handle/atcoder: hefengchen
+    handle/hdu: hefengchen
   陈木子(921106840310):
-    luogu/handle: '578088'
-    codeforces/handle: Charmz
-    atcoder/handle: Charmz
+    handle/luogu: '578088'
+    handle/codeforces: Charmz
+    handle/atcoder: Charmz
   朱铭泽(9191160D0110):
-    luogu/handle: '595439'
+    handle/luogu: '595439'
   陈文轩(921106840311):
-    luogu/handle: '574902'
+    handle/luogu: '574902'
   梁梓涛(919106840525):
-    luogu/handle: '595108'
+    handle/luogu: '595108'
   况宇(919107820406):
-    luogu/handle: '423631'
+    handle/luogu: '423631'
   陈凯荣(920101170117):
-    luogu/handle: '419573'
+    handle/luogu: '419573'
   陈宇航(921106840312):
-    luogu/handle: '595130'
+    handle/luogu: '595130'
   包振峰(921106840302):
-    luogu/handle: '582613'
+    handle/luogu: '582613'
   梁学森(921106840323):
-    luogu/handle: '577410'
+    handle/luogu: '577410'
   方识源(921106840314):
-    luogu/handle: '576189'
+    handle/luogu: '576189'
   陈婷(921106840303):
-    luogu/handle: '582626'
+    handle/luogu: '582626'
   巴合杰力德孜·沙牙哈提(921106840301):
-    luogu/handle: '583852'
+    handle/luogu: '583852'
   刘子豪(920113370210):
-    luogu/handle: '543042'
+    handle/luogu: '543042'
   付凯(921106840315):
-    luogu/handle: '595643'
+    handle/luogu: '595643'
   李旖璇(921106840305):
-    luogu/handle: '97669'
+    handle/luogu: '97669'
   王淼宇(921106840331):
-    luogu/handle: '581377'
+    handle/luogu: '581377'
   徐卫林(921106840333):
-    luogu/handle: '582653'
+    handle/luogu: '582653'
   孟薪茹(921106840307):
-    luogu/handle: '579450'
+    handle/luogu: '579450'
   程子航(921106840313):
-    luogu/handle: '582659'
+    handle/luogu: '582659'
   赵英晨(921106840339):
-    luogu/handle: '583005'
+    handle/luogu: '583005'
   邹会凌(921106840340):
-    luogu/handle: '581561'
+    handle/luogu: '581561'
   谢旭东(921106840332):
-    luogu/handle: '574691'
+    handle/luogu: '574691'
   濮雅俊(921106840329):
-    luogu/handle: '595109'
+    handle/luogu: '595109'
   梅淳(921106840327):
-    luogu/handle: '585298'
+    handle/luogu: '585298'
   杨明鑫(921106840334):
-    luogu/handle: '582615'
+    handle/luogu: '582615'
   梁冲(921106840322):
-    luogu/handle: '577401'
+    handle/luogu: '577401'
   刘喆(920113370114):
-    luogu/handle: '538776'
+    handle/luogu: '538776'
   吕浩阳(921106840326):
-    luogu/handle: '581631'
+    handle/luogu: '581631'
   李永乐(921106840321):
-    luogu/handle: '583808'
+    handle/luogu: '583808'
   骆郝秋(921106840306):
-    luogu/handle: '583870'
+    handle/luogu: '583870'
   卿平伟(921106840330):
-    luogu/handle: '583788'
+    handle/luogu: '583788'
   邢瀚文(920107810138):
-    luogu/handle: '542917'
+    handle/luogu: '542917'
   郭丰瑜(921106840316):
-    luogu/handle: '576359'
+    handle/luogu: '576359'
   曾令全(921106840309):
-    luogu/handle: '597134'
+    handle/luogu: '597134'
   曹明杨(9201010E0207):
-    luogu/handle: '540110'
+    handle/luogu: '540110'
   黄和钊(921106840319):
-    luogu/handle: '595136'
+    handle/luogu: '595136'
   唐钰菲(921106840308):
-    luogu/handle: '599271'
+    handle/luogu: '599271'
 
 contests:
-  - nowcoder
+  # - nowcoder
 
 app:
   recentTime: 2592000 # 1 month
