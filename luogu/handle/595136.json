@@ -1,0 +1,58 @@
+{
+  "type": "luogu/handle",
+  "handle": "595136",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 63877707,
+      "creationTime": 1638108292,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "595136"
+        ],
+        "participantTime": 1638108292,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63877707"
+    },
+    {
+      "type": "luogu",
+      "id": 63877549,
+      "creationTime": 1638108179,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "595136"
+        ],
+        "participantTime": 1638108179,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63877549"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/595136.png",
+  "handleUrl": "https://www.luogu.com.cn/user/595136",
+  "luogu": {
+    "name": "921106840319hhz",
+    "color": "gray",
+    "ranking": 114369,
+    "slogan": ""
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "type": "luogu/handle",
+  "handle": "540110",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 65547128,
+      "creationTime": 1640137004,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "540110"
+        ],
+        "participantTime": 1640137004,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1390",
+        "name": "公约数的和",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1390"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65547128"
+    },
+    {
+      "type": "luogu",
+      "id": 63843931,
+      "creationTime": 1638091470,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "540110"
+        ],
+        "participantTime": 1638091470,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63843931"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/540110.png",
+  "handleUrl": "https://www.luogu.com.cn/user/540110",
+  "luogu": {
+    "name": "Mingyang",
+    "color": "blue",
+    "ranking": 64223,
+    "slogan": ""
+  }
+}

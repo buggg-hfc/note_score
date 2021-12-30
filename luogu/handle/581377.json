@@ -1,0 +1,168 @@
+{
+  "type": "luogu/handle",
+  "handle": "581377",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 63876866,
+      "creationTime": 1638107763,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1638107763,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63876866"
+    },
+    {
+      "type": "luogu",
+      "id": 63832268,
+      "creationTime": 1638087602,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1638087602,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63832268"
+    },
+    {
+      "type": "luogu",
+      "id": 63831474,
+      "creationTime": 1638087300,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1638087300,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63831474"
+    },
+    {
+      "type": "luogu",
+      "id": 63771002,
+      "creationTime": 1638030626,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1638030626,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63771002"
+    },
+    {
+      "type": "luogu",
+      "id": 60328948,
+      "creationTime": 1634645439,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1634645439,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1179",
+        "name": "[NOIP2010 普及组] 数字统计",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1179"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60328948"
+    },
+    {
+      "type": "luogu",
+      "id": 60325638,
+      "creationTime": 1634644514,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1634644514,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206129",
+        "name": "数字反转",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206129"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60325638"
+    },
+    {
+      "type": "luogu",
+      "id": 60317996,
+      "creationTime": 1634642319,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "581377"
+        ],
+        "participantTime": 1634642319,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60317996"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/581377.png",
+  "handleUrl": "https://www.luogu.com.cn/user/581377",
+  "luogu": {
+    "name": "Wangmy",
+    "color": "blue",
+    "ranking": 64223,
+    "slogan": ""
+  }
+}

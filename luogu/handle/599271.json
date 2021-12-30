@@ -1,0 +1,80 @@
+{
+  "type": "luogu/handle",
+  "handle": "599271",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 63860365,
+      "creationTime": 1638101022,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "599271"
+        ],
+        "participantTime": 1638101022,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63860365"
+    },
+    {
+      "type": "luogu",
+      "id": 63858474,
+      "creationTime": 1638100222,
+      "language": "C++ 14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "599271"
+        ],
+        "participantTime": 1638100222,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63858474"
+    },
+    {
+      "type": "luogu",
+      "id": 63857226,
+      "creationTime": 1638099635,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "599271"
+        ],
+        "participantTime": 1638099635,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63857226"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/599271.png",
+  "handleUrl": "https://www.luogu.com.cn/user/599271",
+  "luogu": {
+    "name": "tyf921106840308",
+    "color": "gray",
+    "ranking": 114369,
+    "slogan": ""
+  }
+}

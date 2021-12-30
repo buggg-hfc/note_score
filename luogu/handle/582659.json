@@ -1,0 +1,278 @@
+{
+  "type": "luogu/handle",
+  "handle": "582659",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 63770963,
+      "creationTime": 1638030476,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638030476,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770963"
+    },
+    {
+      "type": "luogu",
+      "id": 63770954,
+      "creationTime": 1638030454,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638030454,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770954"
+    },
+    {
+      "type": "luogu",
+      "id": 63770890,
+      "creationTime": 1638030265,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638030265,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770890"
+    },
+    {
+      "type": "luogu",
+      "id": 63770738,
+      "creationTime": 1638029907,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638029907,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770738"
+    },
+    {
+      "type": "luogu",
+      "id": 63770613,
+      "creationTime": 1638029554,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638029554,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770613"
+    },
+    {
+      "type": "luogu",
+      "id": 63770351,
+      "creationTime": 1638028980,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638028980,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770351"
+    },
+    {
+      "type": "luogu",
+      "id": 63770295,
+      "creationTime": 1638028856,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638028856,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770295"
+    },
+    {
+      "type": "luogu",
+      "id": 63770255,
+      "creationTime": 1638028766,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1638028766,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/U",
+        "id": "U191576",
+        "name": "字符替换",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/U191576"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63770255"
+    },
+    {
+      "type": "luogu",
+      "id": 60333329,
+      "creationTime": 1634646582,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1634646582,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206139",
+        "name": "角谷猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206139"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60333329"
+    },
+    {
+      "type": "luogu",
+      "id": 60330071,
+      "creationTime": 1634645734,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1634645734,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206129",
+        "name": "数字反转",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206129"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60330071"
+    },
+    {
+      "type": "luogu",
+      "id": 60322198,
+      "creationTime": 1634643563,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1634643563,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60322198"
+    },
+    {
+      "type": "luogu",
+      "id": 60320270,
+      "creationTime": 1634642996,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582659"
+        ],
+        "participantTime": 1634642996,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206325",
+        "name": "画矩形",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206325"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60320270"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/582659.png",
+  "handleUrl": "https://www.luogu.com.cn/user/582659",
+  "luogu": {
+    "name": "17stary",
+    "color": "blue",
+    "ranking": 76571,
+    "slogan": ""
+  }
+}

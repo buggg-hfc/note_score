@@ -1,0 +1,916 @@
+{
+  "type": "luogu/handle",
+  "handle": "97669",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 60333159,
+      "creationTime": 1634646541,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634646541,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206127",
+        "name": "金币",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206127"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60333159"
+    },
+    {
+      "type": "luogu",
+      "id": 60328501,
+      "creationTime": 1634645312,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634645312,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60328501"
+    },
+    {
+      "type": "luogu",
+      "id": 60328369,
+      "creationTime": 1634645276,
+      "language": "C++ 14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634645276,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60328369"
+    },
+    {
+      "type": "luogu",
+      "id": 60326676,
+      "creationTime": 1634644806,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634644806,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60326676"
+    },
+    {
+      "type": "luogu",
+      "id": 60326499,
+      "creationTime": 1634644750,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634644750,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60326499"
+    },
+    {
+      "type": "luogu",
+      "id": 60326086,
+      "creationTime": 1634644640,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634644640,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60326086"
+    },
+    {
+      "type": "luogu",
+      "id": 60324621,
+      "creationTime": 1634644245,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634644245,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206131",
+        "name": "百钱买百鸡",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206131"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60324621"
+    },
+    {
+      "type": "luogu",
+      "id": 60322265,
+      "creationTime": 1634643580,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634643580,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206137",
+        "name": "求平均年龄",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206137"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60322265"
+    },
+    {
+      "type": "luogu",
+      "id": 60319876,
+      "creationTime": 1634642894,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1634642894,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60319876"
+    },
+    {
+      "type": "luogu",
+      "id": 59322339,
+      "creationTime": 1633519932,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1633519932,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59322339"
+    },
+    {
+      "type": "luogu",
+      "id": 59322151,
+      "creationTime": 1633519827,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1633519827,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59322151"
+    },
+    {
+      "type": "luogu",
+      "id": 13889529,
+      "creationTime": 1542445251,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542445251,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1008",
+        "name": "[NOIP1998 普及组] 三连击",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1008"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13889529"
+    },
+    {
+      "type": "luogu",
+      "id": 13889181,
+      "creationTime": 1542444916,
+      "language": "C++ 98",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542444916,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13889181"
+    },
+    {
+      "type": "luogu",
+      "id": 13888905,
+      "creationTime": 1542444644,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542444644,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13888905"
+    },
+    {
+      "type": "luogu",
+      "id": 13888829,
+      "creationTime": 1542444581,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542444581,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13888829"
+    },
+    {
+      "type": "luogu",
+      "id": 13888563,
+      "creationTime": 1542444334,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542444334,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13888563"
+    },
+    {
+      "type": "luogu",
+      "id": 13888507,
+      "creationTime": 1542444290,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542444290,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13888507"
+    },
+    {
+      "type": "luogu",
+      "id": 13888253,
+      "creationTime": 1542444046,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542444046,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13888253"
+    },
+    {
+      "type": "luogu",
+      "id": 13887797,
+      "creationTime": 1542443642,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542443642,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13887797"
+    },
+    {
+      "type": "luogu",
+      "id": 13887523,
+      "creationTime": 1542443416,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542443416,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13887523"
+    },
+    {
+      "type": "luogu",
+      "id": 13887476,
+      "creationTime": 1542443371,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1542443371,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/13887476"
+    },
+    {
+      "type": "luogu",
+      "id": 12383717,
+      "creationTime": 1540374165,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540374165,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12383717"
+    },
+    {
+      "type": "luogu",
+      "id": 12383512,
+      "creationTime": 1540373996,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540373996,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1909",
+        "name": "[NOIP2016 普及组] 买铅笔",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1909"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12383512"
+    },
+    {
+      "type": "luogu",
+      "id": 12174248,
+      "creationTime": 1540036387,
+      "language": "C++ 98",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540036387,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1085",
+        "name": "[NOIP2004 普及组] 不高兴的津津",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1085"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12174248"
+    },
+    {
+      "type": "luogu",
+      "id": 12174062,
+      "creationTime": 1540036207,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540036207,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1085",
+        "name": "[NOIP2004 普及组] 不高兴的津津",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1085"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12174062"
+    },
+    {
+      "type": "luogu",
+      "id": 12173869,
+      "creationTime": 1540036026,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540036026,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1085",
+        "name": "[NOIP2004 普及组] 不高兴的津津",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1085"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12173869"
+    },
+    {
+      "type": "luogu",
+      "id": 12172667,
+      "creationTime": 1540034870,
+      "language": "C++ 98",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540034870,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1422",
+        "name": "小玉家的电费",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1422"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12172667"
+    },
+    {
+      "type": "luogu",
+      "id": 12172648,
+      "creationTime": 1540034853,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540034853,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1422",
+        "name": "小玉家的电费",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1422"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12172648"
+    },
+    {
+      "type": "luogu",
+      "id": 12172487,
+      "creationTime": 1540034706,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540034706,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1422",
+        "name": "小玉家的电费",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1422"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12172487"
+    },
+    {
+      "type": "luogu",
+      "id": 12171953,
+      "creationTime": 1540034099,
+      "language": "C++ 98",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540034099,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171953"
+    },
+    {
+      "type": "luogu",
+      "id": 12171890,
+      "creationTime": 1540034016,
+      "language": "C++ 98",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540034016,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171890"
+    },
+    {
+      "type": "luogu",
+      "id": 12171820,
+      "creationTime": 1540033949,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540033949,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171820"
+    },
+    {
+      "type": "luogu",
+      "id": 12171781,
+      "creationTime": 1540033903,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540033903,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171781"
+    },
+    {
+      "type": "luogu",
+      "id": 12171703,
+      "creationTime": 1540033807,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540033807,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171703"
+    },
+    {
+      "type": "luogu",
+      "id": 12171632,
+      "creationTime": 1540033738,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540033738,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171632"
+    },
+    {
+      "type": "luogu",
+      "id": 12171357,
+      "creationTime": 1540033419,
+      "language": "C++ 98",
+      "verdict": "FAILED",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1540033419,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12171357"
+    },
+    {
+      "type": "luogu",
+      "id": 12005610,
+      "creationTime": 1539769285,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1539769285,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12005610"
+    },
+    {
+      "type": "luogu",
+      "id": 12005258,
+      "creationTime": 1539768943,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1539768943,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12005258"
+    },
+    {
+      "type": "luogu",
+      "id": 12004933,
+      "creationTime": 1539768619,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1539768619,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12004933"
+    },
+    {
+      "type": "luogu",
+      "id": 12004639,
+      "creationTime": 1539768357,
+      "language": "C++ 98",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1539768357,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1001",
+        "name": "A+B Problem",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12004639"
+    },
+    {
+      "type": "luogu",
+      "id": 12004116,
+      "creationTime": 1539767882,
+      "language": "C++ 98",
+      "verdict": "FAILED",
+      "author": {
+        "members": [
+          "97669"
+        ],
+        "participantTime": 1539767882,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1001",
+        "name": "A+B Problem",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/12004116"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/97669.png",
+  "handleUrl": "https://www.luogu.com.cn/user/97669",
+  "luogu": {
+    "name": "XUANXU",
+    "color": "blue",
+    "ranking": 64223,
+    "slogan": ""
+  }
+}

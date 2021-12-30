@@ -1,0 +1,300 @@
+{
+  "type": "luogu/handle",
+  "handle": "579450",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 65537269,
+      "creationTime": 1640093106,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1640093106,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1634",
+        "name": "禽兽的传染病",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1634"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65537269"
+    },
+    {
+      "type": "luogu",
+      "id": 65537160,
+      "creationTime": 1640093033,
+      "language": "Unknown",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1640093033,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1634",
+        "name": "禽兽的传染病",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1634"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65537160"
+    },
+    {
+      "type": "luogu",
+      "id": 65536730,
+      "creationTime": 1640092701,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1640092701,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1059",
+        "name": "[NOIP2006 普及组] 明明的随机数",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1059"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65536730"
+    },
+    {
+      "type": "luogu",
+      "id": 65256588,
+      "creationTime": 1639817083,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639817083,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1075",
+        "name": "[NOIP2012 普及组] 质因数分解",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1075"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65256588"
+    },
+    {
+      "type": "luogu",
+      "id": 65251541,
+      "creationTime": 1639815071,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639815071,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1035",
+        "name": "[NOIP2002 普及组] 级数求和",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1035"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65251541"
+    },
+    {
+      "type": "luogu",
+      "id": 65248674,
+      "creationTime": 1639813951,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639813951,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1001",
+        "name": "A+B Problem",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65248674"
+    },
+    {
+      "type": "luogu",
+      "id": 65247784,
+      "creationTime": 1639813611,
+      "language": "Unknown",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639813611,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1304",
+        "name": "哥德巴赫猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1304"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65247784"
+    },
+    {
+      "type": "luogu",
+      "id": 65247425,
+      "creationTime": 1639813472,
+      "language": "Unknown",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639813472,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1304",
+        "name": "哥德巴赫猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1304"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65247425"
+    },
+    {
+      "type": "luogu",
+      "id": 65244932,
+      "creationTime": 1639812403,
+      "language": "Unknown",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639812403,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1304",
+        "name": "哥德巴赫猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1304"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65244932"
+    },
+    {
+      "type": "luogu",
+      "id": 65243362,
+      "creationTime": 1639811716,
+      "language": "Unknown",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639811716,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1304",
+        "name": "哥德巴赫猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1304"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65243362"
+    },
+    {
+      "type": "luogu",
+      "id": 65242625,
+      "creationTime": 1639811384,
+      "language": "Unknown",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1639811384,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1304",
+        "name": "哥德巴赫猜想",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1304"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65242625"
+    },
+    {
+      "type": "luogu",
+      "id": 60329923,
+      "creationTime": 1634645696,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1634645696,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206137",
+        "name": "求平均年龄",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206137"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60329923"
+    },
+    {
+      "type": "luogu",
+      "id": 60318903,
+      "creationTime": 1634642603,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1634642603,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T206134",
+        "name": "奇偶ASCII值判断",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T206134"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/60318903"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/579450.png",
+  "handleUrl": "https://www.luogu.com.cn/user/579450",
+  "luogu": {
+    "name": "Cxiaomengxin",
+    "color": "blue",
+    "ranking": 76571,
+    "slogan": ""
+  }
+}
