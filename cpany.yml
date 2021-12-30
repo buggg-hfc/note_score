@@ -107,3 +107,9 @@ app:
   recentContestsCount: 15
   recentUserCount: 5
   title: 2021程序设计基础I
+
+plugins:
+  - '@cpany/plugin-codeforces'
+  - '@cpany/plugin-atcoder'
+  - '@cpany/plugin-hdu'
+  - '@cpany/plugin-luogu'
