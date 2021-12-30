@@ -2,7 +2,7 @@ name: Deploy Github Pages
 
 on:
   workflow_run:
-    workflows: ["Fetch data", "Fetch Luogu data"]
+    workflows: ["Fetch data", "Fetch Luogu data", "Fetch AtCoder data"]
     types:
       - completed
 
@@ -10,6 +10,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
       - uses: actions/checkout@v2
       - run: npm install
       - run: npm run build
