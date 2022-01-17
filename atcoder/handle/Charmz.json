@@ -190,11 +190,95 @@
         "name": "Triple Metre",
         "problemUrl": "https://atcoder.jp/contests/abc230/tasks/abc230_b"
       }
+    },
+    {
+      "type": "atcoder",
+      "id": 28387433,
+      "creationTime": 1641643713,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641643200
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc234/submissions/28387433",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc234A",
+        "name": "Weird Function",
+        "problemUrl": "https://atcoder.jp/contests/abc234/tasks/abc234_a"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 28400325,
+      "creationTime": 1641645302,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641643200
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc234/submissions/28400325",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc234B",
+        "name": "Longest Segment",
+        "problemUrl": "https://atcoder.jp/contests/abc234/tasks/abc234_b"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 28412873,
+      "creationTime": 1641648413,
+      "language": "C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641643200
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc234/submissions/28412873",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc234C",
+        "name": "Happy New Year!",
+        "problemUrl": "https://atcoder.jp/contests/abc234/tasks/abc234_c"
+      }
+    },
+    {
+      "type": "atcoder",
+      "id": 28417802,
+      "creationTime": 1641650389,
+      "language": "C++",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": 1641650389
+      },
+      "submissionUrl": "https://atcoder.jp/contests/abc234/submissions/28417802",
+      "problem": {
+        "type": "atcoder",
+        "id": "abc234D",
+        "name": "Prefix K-th Max",
+        "problemUrl": "https://atcoder.jp/contests/abc234/tasks/abc234_d"
+      }
     }
   ],
   "handleUrl": "https://atcoder.jp/users/Charmz",
   "atcoder": {
-    "rank": 53560,
+    "rank": 53907,
     "rating": 62,
     "maxRating": 73
   }
