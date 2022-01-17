@@ -1,0 +1,66 @@
+{
+  "type": "codeforces",
+  "handle": "fengchenhe",
+  "handleUrl": "https://codeforces.com/profile/fengchenhe",
+  "avatar": "https://userpic.codeforces.org/no-title.jpg",
+  "submissions": [
+    {
+      "type": "codeforces",
+      "id": 141227328,
+      "creationTime": 1640941333,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "fengchenhe"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -506542314
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "594E",
+        "name": "Cutting the Line",
+        "rating": 3100,
+        "tags": [
+          "string suffix structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/594/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/594/submission/141227328"
+    },
+    {
+      "type": "codeforces",
+      "id": 140451974,
+      "creationTime": 1640356766,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "fengchenhe"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615A",
+        "name": "Closing The Gap",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140451974"
+    }
+  ],
+  "codeforces": {
+    "rank": "newbie",
+    "rating": 447,
+    "maxRank": "newbie",
+    "maxRating": 447
+  }
+}
