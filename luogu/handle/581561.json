@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 67021437,
+      "creationTime": 1642426302,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "581561"
+        ],
+        "participantTime": 1642426302,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67021437"
+    },
+    {
+      "type": "luogu",
       "id": 67015469,
       "creationTime": 1642423186,
       "language": "C++ 11",
