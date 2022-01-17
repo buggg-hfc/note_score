@@ -1,7 +1,316 @@
 {
   "type": "luogu/handle",
   "handle": "597134",
-  "submissions": [],
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 66994636,
+      "creationTime": 1642409998,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642409998,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66994636"
+    },
+    {
+      "type": "luogu",
+      "id": 66974253,
+      "creationTime": 1642401369,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642401369,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66974253"
+    },
+    {
+      "type": "luogu",
+      "id": 66972934,
+      "creationTime": 1642400708,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642400708,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66972934"
+    },
+    {
+      "type": "luogu",
+      "id": 66972667,
+      "creationTime": 1642400570,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642400570,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66972667"
+    },
+    {
+      "type": "luogu",
+      "id": 66972564,
+      "creationTime": 1642400522,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642400522,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66972564"
+    },
+    {
+      "type": "luogu",
+      "id": 66971587,
+      "creationTime": 1642399988,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642399988,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66971587"
+    },
+    {
+      "type": "luogu",
+      "id": 66971107,
+      "creationTime": 1642399722,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642399722,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1420",
+        "name": "最长连号",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1420"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66971107"
+    },
+    {
+      "type": "luogu",
+      "id": 66970982,
+      "creationTime": 1642399650,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642399650,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1420",
+        "name": "最长连号",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1420"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66970982"
+    },
+    {
+      "type": "luogu",
+      "id": 66841489,
+      "creationTime": 1642252129,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642252129,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66841489"
+    },
+    {
+      "type": "luogu",
+      "id": 66840752,
+      "creationTime": 1642251559,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642251559,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66840752"
+    },
+    {
+      "type": "luogu",
+      "id": 66840391,
+      "creationTime": 1642251300,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642251300,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66840391"
+    },
+    {
+      "type": "luogu",
+      "id": 66838898,
+      "creationTime": 1642250174,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642250174,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66838898"
+    },
+    {
+      "type": "luogu",
+      "id": 66838709,
+      "creationTime": 1642250044,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642250044,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66838709"
+    },
+    {
+      "type": "luogu",
+      "id": 66838602,
+      "creationTime": 1642249972,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "597134"
+        ],
+        "participantTime": 1642249972,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66838602"
+    }
+  ],
   "avatar": "https://cdn.luogu.com.cn/upload/usericon/597134.png",
   "handleUrl": "https://www.luogu.com.cn/user/597134",
   "luogu": {

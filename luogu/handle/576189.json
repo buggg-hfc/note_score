@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 66861645,
+      "creationTime": 1642298885,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576189"
+        ],
+        "participantTime": 1642298885,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66861645"
+    },
+    {
+      "type": "luogu",
+      "id": 66781253,
+      "creationTime": 1642214413,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "576189"
+        ],
+        "participantTime": 1642214413,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1042",
+        "name": "[NOIP2003 普及组] 乒乓球",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1042"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/66781253"
+    },
+    {
+      "type": "luogu",
       "id": 63769533,
       "creationTime": 1638027584,
       "language": "C++ 11",
