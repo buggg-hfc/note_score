@@ -6,6 +6,555 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 142876070,
+      "creationTime": 1642263982,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642257300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1627B",
+        "name": "Not Sitting",
+        "tags": [
+          "games",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1627/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1627/submission/142876070"
+    },
+    {
+      "type": "codeforces",
+      "id": 142842881,
+      "creationTime": 1642258887,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642257300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1627A",
+        "name": "Not Shading",
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1627/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1627/submission/142842881"
+    },
+    {
+      "type": "codeforces",
+      "id": 142562308,
+      "creationTime": 1642047918,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505435729
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1541A",
+        "name": "Pretty Permutations",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1541/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1541/submission/142562308"
+    },
+    {
+      "type": "codeforces",
+      "id": 142562011,
+      "creationTime": 1642047616,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505436031
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1541A",
+        "name": "Pretty Permutations",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1541/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1541/submission/142562011"
+    },
+    {
+      "type": "codeforces",
+      "id": 142561928,
+      "creationTime": 1642047532,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505436115
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1509A",
+        "name": "Average Height",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1509/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1509/submission/142561928"
+    },
+    {
+      "type": "codeforces",
+      "id": 142561874,
+      "creationTime": 1642047472,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505436175
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1541A",
+        "name": "Pretty Permutations",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1541/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1541/submission/142561874"
+    },
+    {
+      "type": "codeforces",
+      "id": 142561721,
+      "creationTime": 1642047322,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505436325
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1509A",
+        "name": "Average Height",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1509/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1509/submission/142561721"
+    },
+    {
+      "type": "codeforces",
+      "id": 142561308,
+      "creationTime": 1642046903,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505436744
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1509A",
+        "name": "Average Height",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1509/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1509/submission/142561308"
+    },
+    {
+      "type": "codeforces",
+      "id": 142560916,
+      "creationTime": 1642046429,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505437218
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1509B",
+        "name": "TMT Document",
+        "rating": 1100,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1509/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1509/submission/142560916"
+    },
+    {
+      "type": "codeforces",
+      "id": 142560093,
+      "creationTime": 1642045496,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505438151
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1509A",
+        "name": "Average Height",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1509/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1509/submission/142560093"
+    },
+    {
+      "type": "codeforces",
+      "id": 142511795,
+      "creationTime": 1641995423,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641989100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1625C",
+        "name": "Road Optimization",
+        "rating": 1700,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1625/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1625/submission/142511795"
+    },
+    {
+      "type": "codeforces",
+      "id": 142497756,
+      "creationTime": 1641993201,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641989100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1625B",
+        "name": "Elementary Particles",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1625/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1625/submission/142497756"
+    },
+    {
+      "type": "codeforces",
+      "id": 142482758,
+      "creationTime": 1641991038,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641989100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1625A",
+        "name": "Ancient Civilization",
+        "rating": 800,
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1625/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1625/submission/142482758"
+    },
+    {
+      "type": "codeforces",
+      "id": 142282080,
+      "creationTime": 1641832697,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142282080"
+    },
+    {
+      "type": "codeforces",
+      "id": 142280810,
+      "creationTime": 1641832524,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142280810"
+    },
+    {
+      "type": "codeforces",
+      "id": 142279695,
+      "creationTime": 1641832388,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142279695"
+    },
+    {
+      "type": "codeforces",
+      "id": 142253001,
+      "creationTime": 1641829518,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624C",
+        "name": "Division by Two and Permutation",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "flows",
+          "graph matchings",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142253001"
+    },
+    {
+      "type": "codeforces",
+      "id": 142249457,
+      "creationTime": 1641829190,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624C",
+        "name": "Division by Two and Permutation",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "flows",
+          "graph matchings",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142249457"
+    },
+    {
+      "type": "codeforces",
+      "id": 142234177,
+      "creationTime": 1641827870,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142234177"
+    },
+    {
+      "type": "codeforces",
+      "id": 142225655,
+      "creationTime": 1641827224,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142225655"
+    },
+    {
+      "type": "codeforces",
+      "id": 142200222,
+      "creationTime": 1641825717,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641825300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624A",
+        "name": "Plus One on the Subset",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/142200222"
+    },
+    {
+      "type": "codeforces",
       "id": 138766239,
       "creationTime": 1639223710,
       "language": "GNU C++14",
@@ -675,8 +1224,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 1182,
+    "rating": 1120,
     "maxRank": "newbie",
-    "maxRating": 1182
+    "maxRating": 1191
   }
 }

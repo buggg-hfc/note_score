@@ -13745,12 +13745,85 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Муниципальный этап ВСОШ по информатике 9-11 класс 2021",
-    "duration": 10800,
+    "name": "Abakoda 2021 Long Contest",
+    "startTime": 1640599200,
+    "duration": 799200,
     "participantNumber": 0,
-    "id": 103497,
+    "id": 103496,
     "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/103497",
-    "standingsUrl": "https://codeforces.com/gym/103497/standings"
+    "contestUrl": "https://codeforces.com/gym/103496",
+    "standingsUrl": "https://codeforces.com/gym/103496/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "box 2021",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103500,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103500",
+    "standingsUrl": "https://codeforces.com/gym/103500/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Infoleague Winter 2022 Round 1 Div. 2",
+    "startTime": 1641650400,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103503,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103503",
+    "standingsUrl": "https://codeforces.com/gym/103503/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Infoleague Winter 2022 Round 1 Div. 1",
+    "startTime": 1641650400,
+    "duration": 19800,
+    "participantNumber": 0,
+    "id": 103505,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103505",
+    "standingsUrl": "https://codeforces.com/gym/103505/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2018-2019, Третья личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103521,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103521",
+    "standingsUrl": "https://codeforces.com/gym/103521/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Индивидуальная олимпиада школьников по информатике и программированию 2019",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103522,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103522",
+    "standingsUrl": "https://codeforces.com/gym/103522/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2017-2018, Первая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103524,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103524",
+    "standingsUrl": "https://codeforces.com/gym/103524/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2017-2018, Вторая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103526,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103526",
+    "standingsUrl": "https://codeforces.com/gym/103526/standings"
   }
 ]
