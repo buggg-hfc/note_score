@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 67109938,
+      "creationTime": 1642509613,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "595136"
+        ],
+        "participantTime": 1642509613,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1042",
+        "name": "[NOIP2003 普及组] 乒乓球",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1042"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67109938"
+    },
+    {
+      "type": "luogu",
       "id": 66851443,
       "creationTime": 1642261835,
       "language": "C++ 11",
@@ -228,7 +250,7 @@
   "luogu": {
     "name": "921106840319hhz",
     "color": "gray",
-    "ranking": 114482,
+    "ranking": 114480,
     "slogan": ""
   }
 }

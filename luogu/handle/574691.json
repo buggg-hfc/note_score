@@ -4,6 +4,72 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 67058433,
+      "creationTime": 1642480245,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642480245,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67058433"
+    },
+    {
+      "type": "luogu",
+      "id": 67057935,
+      "creationTime": 1642479622,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642479622,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1420",
+        "name": "最长连号",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1420"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67057935"
+    },
+    {
+      "type": "luogu",
+      "id": 67051929,
+      "creationTime": 1642476232,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642476232,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1420",
+        "name": "最长连号",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1420"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67051929"
+    },
+    {
+      "type": "luogu",
       "id": 66988730,
       "creationTime": 1642407480,
       "language": "C++ 14 (GCC 9)",
@@ -228,7 +294,7 @@
   "luogu": {
     "name": "X921106840332",
     "color": "blue",
-    "ranking": 77123,
+    "ranking": 77120,
     "slogan": ""
   }
 }

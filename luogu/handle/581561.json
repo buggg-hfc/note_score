@@ -4,6 +4,72 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 67026970,
+      "creationTime": 1642430099,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "581561"
+        ],
+        "participantTime": 1642430099,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67026970"
+    },
+    {
+      "type": "luogu",
+      "id": 67025144,
+      "creationTime": 1642428583,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "581561"
+        ],
+        "participantTime": 1642428583,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67025144"
+    },
+    {
+      "type": "luogu",
+      "id": 67025109,
+      "creationTime": 1642428555,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "581561"
+        ],
+        "participantTime": 1642428555,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67025109"
+    },
+    {
+      "type": "luogu",
       "id": 67021437,
       "creationTime": 1642426302,
       "language": "C++ 11",
@@ -2604,7 +2670,7 @@
   "luogu": {
     "name": "Z921106840340",
     "color": "blue",
-    "ranking": 77123,
+    "ranking": 77120,
     "slogan": ""
   }
 }

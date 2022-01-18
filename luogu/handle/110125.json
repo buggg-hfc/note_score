@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 67097831,
+      "creationTime": 1642503040,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "110125"
+        ],
+        "participantTime": 1642503040,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1190",
+        "name": "[NOIP2010 普及组] 接水问题",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1190"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67097831"
+    },
+    {
+      "type": "luogu",
+      "id": 67093501,
+      "creationTime": 1642499600,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "110125"
+        ],
+        "participantTime": 1642499600,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1031",
+        "name": "[NOIP2002 提高组] 均分纸牌",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1031"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67093501"
+    },
+    {
+      "type": "luogu",
       "id": 66820670,
       "creationTime": 1642236858,
       "language": "C++ 14 (GCC 9)",
@@ -7950,7 +7994,7 @@
   "luogu": {
     "name": "何丰辰",
     "color": "blue",
-    "ranking": 16729,
+    "ranking": 16727,
     "slogan": ""
   }
 }
