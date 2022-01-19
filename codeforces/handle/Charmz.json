@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1627B",
         "name": "Not Sitting",
+        "rating": 1300,
         "tags": [
           "games",
           "greedy",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1627A",
         "name": "Not Shading",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "implementation"
