@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 68033836,
+      "creationTime": 1643191461,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643191461,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1042",
+        "name": "[NOIP2003 普及组] 乒乓球",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1042"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68033836"
+    },
+    {
+      "type": "luogu",
+      "id": 68032091,
+      "creationTime": 1643190389,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643190389,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1031",
+        "name": "[NOIP2002 提高组] 均分纸牌",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1031"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68032091"
+    },
+    {
+      "type": "luogu",
       "id": 66907432,
       "creationTime": 1642324733,
       "language": "C++ 14 (GCC 9)",
@@ -558,7 +602,7 @@
   "luogu": {
     "name": "B921106840301",
     "color": "gray",
-    "ranking": 114480,
+    "ranking": 114697,
     "slogan": ""
   }
 }

@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 67460080,
+      "creationTime": 1642777381,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "582626"
+        ],
+        "participantTime": 1642777381,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67460080"
+    },
+    {
+      "type": "luogu",
       "id": 63861022,
       "creationTime": 1638101318,
       "language": "C++ 14",
@@ -250,7 +272,7 @@
   "luogu": {
     "name": "C921106840303",
     "color": "gray",
-    "ranking": 151849,
+    "ranking": 152013,
     "slogan": ""
   }
 }

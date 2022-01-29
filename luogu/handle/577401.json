@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 68253560,
+      "creationTime": 1643417218,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "577401"
+        ],
+        "participantTime": 1643417218,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1321",
+        "name": "单词覆盖还原",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1321"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68253560"
+    },
+    {
+      "type": "luogu",
       "id": 67010005,
       "creationTime": 1642420438,
       "language": "C++ 14 (GCC 9)",
@@ -800,7 +822,7 @@
   "luogu": {
     "name": "L921106840322",
     "color": "blue",
-    "ranking": 77120,
+    "ranking": 65485,
     "slogan": ""
   }
 }

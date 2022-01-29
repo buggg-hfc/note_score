@@ -4,6 +4,248 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 68199093,
+      "creationTime": 1643350810,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643350810,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1046",
+        "name": "[NOIP2005 普及组] 陶陶摘苹果",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1046"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68199093"
+    },
+    {
+      "type": "luogu",
+      "id": 68192998,
+      "creationTime": 1643345871,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643345871,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204361",
+        "name": "Seismic magnitude scales",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204361"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68192998"
+    },
+    {
+      "type": "luogu",
+      "id": 68192561,
+      "creationTime": 1643345403,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643345403,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204361",
+        "name": "Seismic magnitude scales",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204361"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68192561"
+    },
+    {
+      "type": "luogu",
+      "id": 68192339,
+      "creationTime": 1643345168,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643345168,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T204361",
+        "name": "Seismic magnitude scales",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T204361"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68192339"
+    },
+    {
+      "type": "luogu",
+      "id": 68191658,
+      "creationTime": 1643344528,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643344528,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5708",
+        "name": "【深基2.习2】三角形面积",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5708"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68191658"
+    },
+    {
+      "type": "luogu",
+      "id": 68191095,
+      "creationTime": 1643344108,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643344108,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1425",
+        "name": "小鱼的游泳时间",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1425"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68191095"
+    },
+    {
+      "type": "luogu",
+      "id": 68190772,
+      "creationTime": 1643343879,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1643343879,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68190772"
+    },
+    {
+      "type": "luogu",
+      "id": 67497230,
+      "creationTime": 1642824651,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642824651,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67497230"
+    },
+    {
+      "type": "luogu",
+      "id": 67496403,
+      "creationTime": 1642824148,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642824148,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67496403"
+    },
+    {
+      "type": "luogu",
+      "id": 67493055,
+      "creationTime": 1642822750,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642822750,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67493055"
+    },
+    {
+      "type": "luogu",
+      "id": 67265871,
+      "creationTime": 1642659655,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "574691"
+        ],
+        "participantTime": 1642659655,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/67265871"
+    },
+    {
+      "type": "luogu",
       "id": 67058433,
       "creationTime": 1642480245,
       "language": "C++ 14 (GCC 9)",
@@ -294,7 +536,7 @@
   "luogu": {
     "name": "X921106840332",
     "color": "blue",
-    "ranking": 77120,
+    "ranking": 65485,
     "slogan": ""
   }
 }
