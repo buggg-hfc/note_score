@@ -909,8 +909,8 @@
   "handleUrl": "https://www.luogu.com.cn/user/97669",
   "luogu": {
     "name": "XUANXU",
-    "color": "blue",
-    "ranking": 65485,
+    "color": "gray",
+    "ranking": null,
     "slogan": ""
   }
 }

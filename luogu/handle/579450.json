@@ -4,6 +4,204 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 68346557,
+      "creationTime": 1643532727,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643532727,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219070",
+        "name": "万恶的小组作业",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219070"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68346557"
+    },
+    {
+      "type": "luogu",
+      "id": 68343695,
+      "creationTime": 1643530595,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643530595,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219070",
+        "name": "万恶的小组作业",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219070"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68343695"
+    },
+    {
+      "type": "luogu",
+      "id": 68343276,
+      "creationTime": 1643530230,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643530230,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219070",
+        "name": "万恶的小组作业",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219070"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68343276"
+    },
+    {
+      "type": "luogu",
+      "id": 68338888,
+      "creationTime": 1643526969,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643526969,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219068",
+        "name": "鱿鱼游戏",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219068"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68338888"
+    },
+    {
+      "type": "luogu",
+      "id": 68333999,
+      "creationTime": 1643523192,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643523192,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219071",
+        "name": "勇者斗恶龙",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219071"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68333999"
+    },
+    {
+      "type": "luogu",
+      "id": 68331906,
+      "creationTime": 1643521401,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643521401,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68331906"
+    },
+    {
+      "type": "luogu",
+      "id": 68331870,
+      "creationTime": 1643521368,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643521368,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68331870"
+    },
+    {
+      "type": "luogu",
+      "id": 68331698,
+      "creationTime": 1643521193,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643521193,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68331698"
+    },
+    {
+      "type": "luogu",
+      "id": 68331610,
+      "creationTime": 1643521079,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "579450"
+        ],
+        "participantTime": 1643521079,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219066",
+        "name": "HAPPY NEAR",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219066"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68331610"
+    },
+    {
+      "type": "luogu",
       "id": 65537269,
       "creationTime": 1640093106,
       "language": "Unknown",
@@ -293,8 +491,8 @@
   "handleUrl": "https://www.luogu.com.cn/user/579450",
   "luogu": {
     "name": "M921106840307",
-    "color": "blue",
-    "ranking": 78333,
+    "color": "gray",
+    "ranking": null,
     "slogan": ""
   }
 }

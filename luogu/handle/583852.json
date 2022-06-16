@@ -4,6 +4,908 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 69590079,
+      "creationTime": 1645170419,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1645170419,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1738",
+        "name": "洛谷的文件夹",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1738"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69590079"
+    },
+    {
+      "type": "luogu",
+      "id": 69589979,
+      "creationTime": 1645170328,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1645170328,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1065",
+        "name": "[NOIP2006 提高组] 作业调度方案",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1065"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69589979"
+    },
+    {
+      "type": "luogu",
+      "id": 69589677,
+      "creationTime": 1645170070,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1645170070,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1065",
+        "name": "[NOIP2006 提高组] 作业调度方案",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1065"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69589677"
+    },
+    {
+      "type": "luogu",
+      "id": 69299905,
+      "creationTime": 1644742464,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644742464,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1738",
+        "name": "洛谷的文件夹",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1738"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69299905"
+    },
+    {
+      "type": "luogu",
+      "id": 69299665,
+      "creationTime": 1644742369,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644742369,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1065",
+        "name": "[NOIP2006 提高组] 作业调度方案",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1065"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69299665"
+    },
+    {
+      "type": "luogu",
+      "id": 69299552,
+      "creationTime": 1644742322,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644742322,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1217",
+        "name": "[USACO1.5]回文质数 Prime Palindromes",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1217"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69299552"
+    },
+    {
+      "type": "luogu",
+      "id": 69299047,
+      "creationTime": 1644742123,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644742123,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1786",
+        "name": "帮贡排序",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1786"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69299047"
+    },
+    {
+      "type": "luogu",
+      "id": 69091297,
+      "creationTime": 1644569253,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644569253,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1217",
+        "name": "[USACO1.5]回文质数 Prime Palindromes",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1217"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69091297"
+    },
+    {
+      "type": "luogu",
+      "id": 69090069,
+      "creationTime": 1644568782,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644568782,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1058",
+        "name": "[NOIP2008 普及组] 立体图",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1058"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/69090069"
+    },
+    {
+      "type": "luogu",
+      "id": 68948112,
+      "creationTime": 1644466177,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644466177,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68948112"
+    },
+    {
+      "type": "luogu",
+      "id": 68947974,
+      "creationTime": 1644466071,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644466071,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1786",
+        "name": "帮贡排序",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1786"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68947974"
+    },
+    {
+      "type": "luogu",
+      "id": 68947850,
+      "creationTime": 1644465990,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644465990,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1786",
+        "name": "帮贡排序",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1786"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68947850"
+    },
+    {
+      "type": "luogu",
+      "id": 68947699,
+      "creationTime": 1644465896,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644465896,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1786",
+        "name": "帮贡排序",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1786"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68947699"
+    },
+    {
+      "type": "luogu",
+      "id": 68947266,
+      "creationTime": 1644465678,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644465678,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1605",
+        "name": "迷宫",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1605"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68947266"
+    },
+    {
+      "type": "luogu",
+      "id": 68946940,
+      "creationTime": 1644465532,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644465532,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1056",
+        "name": "[NOIP2008 普及组] 排座椅",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1056"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946940"
+    },
+    {
+      "type": "luogu",
+      "id": 68946625,
+      "creationTime": 1644465390,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644465390,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5730",
+        "name": "【深基5.例10】显示屏",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5730"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946625"
+    },
+    {
+      "type": "luogu",
+      "id": 68946271,
+      "creationTime": 1644465235,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644465235,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2615",
+        "name": "[NOIP2015 提高组] 神奇的幻方",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2615"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946271"
+    },
+    {
+      "type": "luogu",
+      "id": 68756766,
+      "creationTime": 1644300051,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644300051,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1518",
+        "name": "[USACO2.4]两只塔姆沃斯牛 The Tamworth Two",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1518"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68756766"
+    },
+    {
+      "type": "luogu",
+      "id": 68755275,
+      "creationTime": 1644299035,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644299035,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1957",
+        "name": "口算练习题",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1957"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68755275"
+    },
+    {
+      "type": "luogu",
+      "id": 68754252,
+      "creationTime": 1644298272,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644298272,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1957",
+        "name": "口算练习题",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1957"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68754252"
+    },
+    {
+      "type": "luogu",
+      "id": 68753744,
+      "creationTime": 1644297819,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644297819,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1079",
+        "name": "[NOIP2012 提高组] Vigenère 密码",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1079"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68753744"
+    },
+    {
+      "type": "luogu",
+      "id": 68753253,
+      "creationTime": 1644297397,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644297397,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1079",
+        "name": "[NOIP2012 提高组] Vigenère 密码",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1079"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68753253"
+    },
+    {
+      "type": "luogu",
+      "id": 68753155,
+      "creationTime": 1644297310,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644297310,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1079",
+        "name": "[NOIP2012 提高组] Vigenère 密码",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1079"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68753155"
+    },
+    {
+      "type": "luogu",
+      "id": 68752114,
+      "creationTime": 1644296361,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644296361,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1540",
+        "name": "[NOIP2010 提高组] 机器翻译",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1540"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68752114"
+    },
+    {
+      "type": "luogu",
+      "id": 68634134,
+      "creationTime": 1644143786,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644143786,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1223",
+        "name": "排队接水",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1223"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68634134"
+    },
+    {
+      "type": "luogu",
+      "id": 68633967,
+      "creationTime": 1644143593,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644143593,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68633967"
+    },
+    {
+      "type": "luogu",
+      "id": 68633760,
+      "creationTime": 1644143392,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644143392,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5731",
+        "name": "【深基5.习6】蛇形方阵",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5731"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68633760"
+    },
+    {
+      "type": "luogu",
+      "id": 68632843,
+      "creationTime": 1644142514,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644142514,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1190",
+        "name": "[NOIP2010 普及组] 接水问题",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1190"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68632843"
+    },
+    {
+      "type": "luogu",
+      "id": 68632575,
+      "creationTime": 1644142250,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1644142250,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1093",
+        "name": "[NOIP2007 普及组] 奖学金",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1093"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68632575"
+    },
+    {
+      "type": "luogu",
+      "id": 68343918,
+      "creationTime": 1643530769,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643530769,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219208",
+        "name": "汉堡包、汉堡包，你吃",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219208"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68343918"
+    },
+    {
+      "type": "luogu",
+      "id": 68343412,
+      "creationTime": 1643530344,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643530344,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219208",
+        "name": "汉堡包、汉堡包，你吃",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219208"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68343412"
+    },
+    {
+      "type": "luogu",
+      "id": 68330953,
+      "creationTime": 1643520290,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643520290,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68330953"
+    },
+    {
+      "type": "luogu",
+      "id": 68330944,
+      "creationTime": 1643520275,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643520275,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68330944"
+    },
+    {
+      "type": "luogu",
+      "id": 68330935,
+      "creationTime": 1643520261,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643520261,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68330935"
+    },
+    {
+      "type": "luogu",
+      "id": 68330922,
+      "creationTime": 1643520246,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643520246,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68330922"
+    },
+    {
+      "type": "luogu",
+      "id": 68330902,
+      "creationTime": 1643520224,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643520224,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68330902"
+    },
+    {
+      "type": "luogu",
+      "id": 68329914,
+      "creationTime": 1643519146,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643519146,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68329914"
+    },
+    {
+      "type": "luogu",
+      "id": 68329877,
+      "creationTime": 1643519123,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643519123,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219067",
+        "name": "天选之子",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219067"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68329877"
+    },
+    {
+      "type": "luogu",
+      "id": 68329767,
+      "creationTime": 1643519046,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643519046,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T219066",
+        "name": "HAPPY NEAR",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/T219066"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68329767"
+    },
+    {
+      "type": "luogu",
+      "id": 68328402,
+      "creationTime": 1643517282,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643517282,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1086",
+        "name": "[NOIP2004 普及组] 花生采摘",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1086"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68328402"
+    },
+    {
+      "type": "luogu",
+      "id": 68327885,
+      "creationTime": 1643516578,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "583852"
+        ],
+        "participantTime": 1643516578,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2670",
+        "name": "[NOIP2015 普及组] 扫雷游戏",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2670"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68327885"
+    },
+    {
+      "type": "luogu",
       "id": 68033836,
       "creationTime": 1643191461,
       "language": "C++ 14 (GCC 9)",
@@ -601,8 +1503,8 @@
   "handleUrl": "https://www.luogu.com.cn/user/583852",
   "luogu": {
     "name": "B921106840301",
-    "color": "gray",
-    "ranking": 114697,
+    "color": "blue",
+    "ranking": 39909,
     "slogan": ""
   }
 }

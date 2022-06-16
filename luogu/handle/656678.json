@@ -4,6 +4,138 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 68946872,
+      "creationTime": 1644465506,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "656678"
+        ],
+        "participantTime": 1644465506,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946872"
+    },
+    {
+      "type": "luogu",
+      "id": 68946742,
+      "creationTime": 1644465439,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "656678"
+        ],
+        "participantTime": 1644465439,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946742"
+    },
+    {
+      "type": "luogu",
+      "id": 68946621,
+      "creationTime": 1644465387,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "656678"
+        ],
+        "participantTime": 1644465387,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946621"
+    },
+    {
+      "type": "luogu",
+      "id": 68946593,
+      "creationTime": 1644465378,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "656678"
+        ],
+        "participantTime": 1644465378,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946593"
+    },
+    {
+      "type": "luogu",
+      "id": 68946425,
+      "creationTime": 1644465303,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "656678"
+        ],
+        "participantTime": 1644465303,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946425"
+    },
+    {
+      "type": "luogu",
+      "id": 68946310,
+      "creationTime": 1644465250,
+      "language": "C++ 14 (GCC 9)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "656678"
+        ],
+        "participantTime": 1644465250,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1126",
+        "name": "机器人搬重物",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1126"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/68946310"
+    },
+    {
+      "type": "luogu",
       "id": 67282418,
       "creationTime": 1642665642,
       "language": "C++ 14 (GCC 9)",
@@ -1085,8 +1217,8 @@
   "handleUrl": "https://www.luogu.com.cn/user/656678",
   "luogu": {
     "name": "H921106840318",
-    "color": "blue",
-    "ranking": 40157,
+    "color": "gray",
+    "ranking": null,
     "slogan": ""
   }
 }
