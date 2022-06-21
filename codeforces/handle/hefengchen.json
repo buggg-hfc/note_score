@@ -6,6 +6,577 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 161352384,
+      "creationTime": 1655778141,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491705506
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695C",
+        "name": "Zero Path",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161352384"
+    },
+    {
+      "type": "codeforces",
+      "id": 161321200,
+      "creationTime": 1655740073,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491743574
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161321200"
+    },
+    {
+      "type": "codeforces",
+      "id": 161321033,
+      "creationTime": 1655739943,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491743704
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161321033"
+    },
+    {
+      "type": "codeforces",
+      "id": 161320678,
+      "creationTime": 1655739704,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491743943
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161320678"
+    },
+    {
+      "type": "codeforces",
+      "id": 161320356,
+      "creationTime": 1655739469,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491744178
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161320356"
+    },
+    {
+      "type": "codeforces",
+      "id": 161319661,
+      "creationTime": 1655738950,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491744697
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695A",
+        "name": "Subrectangle Guess",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161319661"
+    },
+    {
+      "type": "codeforces",
+      "id": 161309932,
+      "creationTime": 1655732057,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491751590
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700D",
+        "name": "River Locks",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161309932"
+    },
+    {
+      "type": "codeforces",
+      "id": 161266858,
+      "creationTime": 1655693680,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491789967
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700C",
+        "name": "Helping the Nature",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161266858"
+    },
+    {
+      "type": "codeforces",
+      "id": 161266834,
+      "creationTime": 1655693640,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491790007
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700C",
+        "name": "Helping the Nature",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161266834"
+    },
+    {
+      "type": "codeforces",
+      "id": 161265788,
+      "creationTime": 1655692276,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491791371
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700B",
+        "name": "Palindromic Numbers ",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161265788"
+    },
+    {
+      "type": "codeforces",
+      "id": 161265393,
+      "creationTime": 1655691468,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491792179
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700B",
+        "name": "Palindromic Numbers ",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161265393"
+    },
+    {
+      "type": "codeforces",
+      "id": 161265135,
+      "creationTime": 1655690987,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491792660
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700A",
+        "name": "Optimal Path",
+        "rating": 800,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161265135"
+    },
+    {
+      "type": "codeforces",
+      "id": 160913796,
+      "creationTime": 1655432265,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -492051382
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697D",
+        "name": "Guess The String",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160913796"
+    },
+    {
+      "type": "codeforces",
+      "id": 160876763,
+      "creationTime": 1655396045,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160876763"
+    },
+    {
+      "type": "codeforces",
+      "id": 160875254,
+      "creationTime": 1655395807,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160875254"
+    },
+    {
+      "type": "codeforces",
+      "id": 160858952,
+      "creationTime": 1655393530,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160858952"
+    },
+    {
+      "type": "codeforces",
+      "id": 160856372,
+      "creationTime": 1655393189,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160856372"
+    },
+    {
+      "type": "codeforces",
+      "id": 160849400,
+      "creationTime": 1655392326,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160849400"
+    },
+    {
+      "type": "codeforces",
+      "id": 160848725,
+      "creationTime": 1655392242,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160848725"
+    },
+    {
+      "type": "codeforces",
+      "id": 160848377,
+      "creationTime": 1655392204,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160848377"
+    },
+    {
+      "type": "codeforces",
+      "id": 160845438,
+      "creationTime": 1655391885,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160845438"
+    },
+    {
+      "type": "codeforces",
+      "id": 160825560,
+      "creationTime": 1655390350,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "hefengchen"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694A",
+        "name": "Creep",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160825560"
+    },
+    {
+      "type": "codeforces",
       "id": 160647286,
       "creationTime": 1655225172,
       "language": "GNU C++14",
@@ -21,6 +592,7 @@
         "type": "codeforces",
         "id": "1692H",
         "name": "Gambling",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dp",
@@ -48,6 +620,7 @@
         "type": "codeforces",
         "id": "1692H",
         "name": "Gambling",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dp",
@@ -75,6 +648,7 @@
         "type": "codeforces",
         "id": "1692H",
         "name": "Gambling",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dp",
@@ -102,6 +676,7 @@
         "type": "codeforces",
         "id": "1692E",
         "name": "Binary Deque",
+        "rating": 1200,
         "tags": [
           "binary search",
           "implementation",
@@ -128,6 +703,7 @@
         "type": "codeforces",
         "id": "1692E",
         "name": "Binary Deque",
+        "rating": 1200,
         "tags": [
           "binary search",
           "implementation",
@@ -154,6 +730,7 @@
         "type": "codeforces",
         "id": "1692D",
         "name": "The Clock",
+        "rating": 1100,
         "tags": [
           "brute force",
           "implementation"
@@ -179,6 +756,7 @@
         "type": "codeforces",
         "id": "1692G",
         "name": "2^Sort",
+        "rating": 1400,
         "tags": [
           "data structures",
           "dp",
@@ -206,6 +784,7 @@
         "type": "codeforces",
         "id": "1692F",
         "name": "3SUM",
+        "rating": 1300,
         "tags": [
           "brute force",
           "math"
@@ -231,6 +810,7 @@
         "type": "codeforces",
         "id": "1692D",
         "name": "The Clock",
+        "rating": 1100,
         "tags": [
           "brute force",
           "implementation"
@@ -256,6 +836,7 @@
         "type": "codeforces",
         "id": "1692B",
         "name": "All Distinct",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
@@ -281,6 +862,7 @@
         "type": "codeforces",
         "id": "1692C",
         "name": "Where's the Bishop?",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -305,6 +887,7 @@
         "type": "codeforces",
         "id": "1692B",
         "name": "All Distinct",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
@@ -330,6 +913,7 @@
         "type": "codeforces",
         "id": "1692A",
         "name": "Marathon",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -356,9 +940,9 @@
         "name": "awoo's Favorite Problem",
         "rating": 1400,
         "tags": [
+          "binary search",
           "constructive algorithms",
           "data structures",
-          "dp",
           "greedy",
           "implementation",
           "strings",
@@ -387,9 +971,9 @@
         "name": "awoo's Favorite Problem",
         "rating": 1400,
         "tags": [
+          "binary search",
           "constructive algorithms",
           "data structures",
-          "dp",
           "greedy",
           "implementation",
           "strings",
@@ -418,9 +1002,9 @@
         "name": "awoo's Favorite Problem",
         "rating": 1400,
         "tags": [
+          "binary search",
           "constructive algorithms",
           "data structures",
-          "dp",
           "greedy",
           "implementation",
           "strings",

@@ -6,6 +6,431 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 161324335,
+      "creationTime": 1655742486,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491741161
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/161324335"
+    },
+    {
+      "type": "codeforces",
+      "id": 161307611,
+      "creationTime": 1655730366,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491753281
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694A",
+        "name": "Creep",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/161307611"
+    },
+    {
+      "type": "codeforces",
+      "id": 161307195,
+      "creationTime": 1655730053,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491753594
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694A",
+        "name": "Creep",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/161307195"
+    },
+    {
+      "type": "codeforces",
+      "id": 161306883,
+      "creationTime": 1655729808,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491753839
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/161306883"
+    },
+    {
+      "type": "codeforces",
+      "id": 161306793,
+      "creationTime": 1655729746,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491753901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/161306793"
+    },
+    {
+      "type": "codeforces",
+      "id": 161306647,
+      "creationTime": 1655729649,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491753998
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/161306647"
+    },
+    {
+      "type": "codeforces",
+      "id": 161224576,
+      "creationTime": 1655641873,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655638800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700B",
+        "name": "Palindromic Numbers ",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161224576"
+    },
+    {
+      "type": "codeforces",
+      "id": 161224298,
+      "creationTime": 1655641681,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655638800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700B",
+        "name": "Palindromic Numbers ",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161224298"
+    },
+    {
+      "type": "codeforces",
+      "id": 161224162,
+      "creationTime": 1655641588,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655638800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700B",
+        "name": "Palindromic Numbers ",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161224162"
+    },
+    {
+      "type": "codeforces",
+      "id": 161220758,
+      "creationTime": 1655639480,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655638800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700A",
+        "name": "Optimal Path",
+        "rating": 800,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/161220758"
+    },
+    {
+      "type": "codeforces",
+      "id": 160932573,
+      "creationTime": 1655451349,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655447100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697D",
+        "name": "Guess The String",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160932573"
+    },
+    {
+      "type": "codeforces",
+      "id": 160932217,
+      "creationTime": 1655451095,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655447100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697C",
+        "name": "awoo's Favorite Problem",
+        "rating": 1400,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation",
+          "strings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160932217"
+    },
+    {
+      "type": "codeforces",
+      "id": 160929833,
+      "creationTime": 1655449360,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655447100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697B",
+        "name": "Promo",
+        "rating": 900,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160929833"
+    },
+    {
+      "type": "codeforces",
+      "id": 160929024,
+      "creationTime": 1655448771,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655447100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697B",
+        "name": "Promo",
+        "rating": 900,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160929024"
+    },
+    {
+      "type": "codeforces",
+      "id": 160928665,
+      "creationTime": 1655448535,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655447100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697B",
+        "name": "Promo",
+        "rating": 900,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160928665"
+    },
+    {
+      "type": "codeforces",
+      "id": 160927609,
+      "creationTime": 1655447788,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Charmz"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1655447100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1697A",
+        "name": "Parkway Walk",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1697/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1697/submission/160927609"
+    },
+    {
+      "type": "codeforces",
       "id": 156377859,
       "creationTime": 1652066771,
       "language": "GNU C++14",

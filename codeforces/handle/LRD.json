@@ -6,6 +6,326 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 161086347,
+      "creationTime": 1655566192,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161086347"
+    },
+    {
+      "type": "codeforces",
+      "id": 161085989,
+      "creationTime": 1655566156,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161085989"
+    },
+    {
+      "type": "codeforces",
+      "id": 161081328,
+      "creationTime": 1655565712,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161081328"
+    },
+    {
+      "type": "codeforces",
+      "id": 161076559,
+      "creationTime": 1655565302,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161076559"
+    },
+    {
+      "type": "codeforces",
+      "id": 161074499,
+      "creationTime": 1655565134,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695B",
+        "name": "Circle Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161074499"
+    },
+    {
+      "type": "codeforces",
+      "id": 161066572,
+      "creationTime": 1655564525,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695A",
+        "name": "Subrectangle Guess",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161066572"
+    },
+    {
+      "type": "codeforces",
+      "id": 161061545,
+      "creationTime": 1655564181,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695A",
+        "name": "Subrectangle Guess",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161061545"
+    },
+    {
+      "type": "codeforces",
+      "id": 161060401,
+      "creationTime": 1655564099,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655562900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1695A",
+        "name": "Subrectangle Guess",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1695/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1695/submission/161060401"
+    },
+    {
+      "type": "codeforces",
+      "id": 160866620,
+      "creationTime": 1655394571,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160866620"
+    },
+    {
+      "type": "codeforces",
+      "id": 160865489,
+      "creationTime": 1655394414,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160865489"
+    },
+    {
+      "type": "codeforces",
+      "id": 160855051,
+      "creationTime": 1655393022,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160855051"
+    },
+    {
+      "type": "codeforces",
+      "id": 160854350,
+      "creationTime": 1655392937,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160854350"
+    },
+    {
+      "type": "codeforces",
+      "id": 160838278,
+      "creationTime": 1655391172,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "LRD"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694A",
+        "name": "Creep",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160838278"
+    },
+    {
+      "type": "codeforces",
       "id": 160585466,
       "creationTime": 1655220022,
       "language": "GNU C++17",
@@ -21,6 +341,7 @@
         "type": "codeforces",
         "id": "1692D",
         "name": "The Clock",
+        "rating": 1100,
         "tags": [
           "brute force",
           "implementation"
@@ -46,6 +367,7 @@
         "type": "codeforces",
         "id": "1692C",
         "name": "Where's the Bishop?",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -70,6 +392,7 @@
         "type": "codeforces",
         "id": "1692B",
         "name": "All Distinct",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
@@ -95,6 +418,7 @@
         "type": "codeforces",
         "id": "1692A",
         "name": "Marathon",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -5938,7 +6262,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1549,
+    "rating": 1403,
     "maxRank": "specialist",
     "maxRating": 1549
   }
